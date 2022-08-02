@@ -12,32 +12,35 @@ background: /assets/img/groupLogo/publications.jpg
 <br/>
 
 
-##Journals
+## Journals
 
 <p style="margin-bottom:15px"></p>
 
-#2022
-
-{% bibliography --query @article[year=2022] %}
+<!-- # 2022
+{% bibliography --query @article[year=2022] %}-->
 
 
 <br/>
 
-##Conferences and Announcements
+## Conferences and Announcements
 <p style="margin-bottom:15px"></p>
-#2022
+
+<!-- # 2022
 {% bibliography --query @inproceedings[year=2022] %}
-{% bibliography --query @conference[year=2022] %}
+{% bibliography --query @conference[year=2022] %}-->
+
 <br/>
 
-##Other
+## Other
 <p style="margin-bottom:15px"></p>
-#2022
-{% bibliography --query @misc[year=2022] %}
+
+<!-- # 2022
+{% bibliography --query @misc[year=2022] %}-->
+
 <br/>
 
 
-##Thesis
+## Thesis
 
 {% bibliography --query @phdthesis %}
 {% bibliography --query @masterthesis %}
