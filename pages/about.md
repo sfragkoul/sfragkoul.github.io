@@ -3,9 +3,16 @@ title: About Section
 background: /assets/img/groupLogo/about.jpg
 permalink: /about/
 ---
-### Social Media
 
+### Academic
+- [Google Scholar](https://scholar.google.com/citations?user=76BsJKQAAAAJ&hl=en)<br>
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4067-7123)<br>
 - [Researchgate](https://www.researchgate.net/profile/Styliani-Christina-Fragkouli)<br>
+- [Github](https://github.com/sfragkoul)<br>
+
+
+### Social Media
+- [LinkedIn](https://www.linkedin.com/in/styliani-christina-fragkouli-57131811b/)<br>
 - [flickr](https://www.flickr.com/photos/stellaphysics/)<br>
 
 ## Location
@@ -20,8 +27,5 @@ Institute of Applied Biosciences (INAB)<br>
 Center for Research and Technology Hellas (CERTH)<br>
 6th km Charilaou-Thermis rd, Thermi<br>
 Thessaloniki 57001, Greece
-
-
-
 
 <br/>
