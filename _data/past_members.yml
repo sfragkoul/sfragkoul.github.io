@@ -1,0 +1,37 @@
+- name: Maria Christina Maniou
+  role: Research assistant
+  image: assets/img/team/mcmaniou.jpg
+  orcid: 0000-0002-5029-206X
+  email: mcmaniou@yahoo.gr
+  github: mcmaniou
+  description: >
+    Maria Christina Maniou was working as a research assistant at INAB/CERTH.
+    
+- name: Dr. Maria Tsagiopoulou
+  role: Postdoctoral Researcher
+  image: assets/img/team/mariatsayo.jpg
+  orcid: 0000-0002-1653-0327
+  email: maria.tsagiopoulou@cnag.crg.eu
+  github: MariaTsayo
+  twitter: tsayo7
+  description: >
+    Maria Tsagiopoulou, PhD, was working as a postdoctoral researcher at INAB/CERTH. Her current position is as a postdoctoral researcher at the Centro Nacional de Análisis Genómico (CNAG-CRG).
+
+- name: Iasonas Ofeidis
+  role: Research assistant
+  image: assets/img/team/iason.jpg
+  orcid: 0000-0001-8206-8321
+  email: jasonof75@gmail.com
+  github: iofeidis
+  description: >
+    Iasonas Ofeidis was working as a research assistant at INAB/CERTH. His current position is at the Yale Institute of Network Science.
+
+
+- name: Anastasios Togkousidis
+  role: Research assistant
+  image: assets/img/team/togkousa.png
+  orcid: 0000-0003-4306-3709
+  email: togkousa@gmail.com
+  github: tatsistog
+  description: >
+    Anastasios Togkousidis was working as a research assistant at INAB/CERTH. He is currently pursuing a PhD at Heidelberg Institute for Theoretical Studies under the Computational Molecular Evolution (cme) laboratory.

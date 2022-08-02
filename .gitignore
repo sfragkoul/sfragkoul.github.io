@@ -1,0 +1,28 @@
+*.gem
+.bundle
+.sass-cache
+Gemfile.lock
+
+# npm
+node_modules
+npm-debug.log
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Jekyll
+_site
+.jekyll-metadata
+.sass-cache
+
+# Temporary files
+tmp
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
