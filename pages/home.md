@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Stella Fragkouli
-description: A Physicist playing with ML & Bioinformatics 
+title: A Physicist playing with Machine Learning & Bioinformatics 
 background: /assets/img/groupLogo/home.jpg
 permalink: /
 ---
