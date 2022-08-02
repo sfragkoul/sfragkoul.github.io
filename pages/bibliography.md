@@ -7,25 +7,10 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <!-- # Bibliography -->
 
-[**Book**](#book) &nbsp; [**Book Chapter**](#book-chapter) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other**](#other)
+[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other**](#other)
 
 <br/>
 
-<! --## Book
-<p style="margin-bottom:15px"></p>
-### 2018
-{% bibliography --query @book[year=2018] %}
-<br/>-->
-
- <! --## Book Chapter
-<p style="margin-bottom:15px"></p>
-
-### 2022
-
-{% bibliography --query @inbook[year=2022] %}
-
-
-<br/>-->
 
 ## Journals
 
