@@ -2,7 +2,7 @@
 layout: base
 title: Curriculum Vitae
 permalink: /CV/
-background: /assets/img/groupLogo/cv.jpg
+background: /assets/img/groupLogo/CV.jpg
 ---
 
 
