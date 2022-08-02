@@ -7,7 +7,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <!-- # Bibliography -->
 
-[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Thesis**](#thesis); 
+[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Thesis**](#thesis)
 
 <br/>
 
