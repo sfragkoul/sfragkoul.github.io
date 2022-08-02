@@ -1,16 +1,16 @@
 # SITE SETTINGS
-title: Biodata Analysis Group                        # Title in top navigation bar (navbar) and <head>
-description: The Biodata Analysis Group website # Site description in <head>
-author: Fotis Psomopoulos                    # Used for copyright statement in footer
-url: "https://biodataanalysisgroup.github.io"  # No slash at the end
+title: Styliani Christina Fragkouli                        # Title in top navigation bar (navbar) and <head>
+description: A Physicist playing with ML & Bioinformatics # Site description in <head>
+author: Styliani Christina Fragkouli                     # Used for copyright statement in footer
+url: "https://sfragkoul.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: fpsom@certh.gr         # Social icon in footer
-twitter_username: fopsom       # Social icon in footer
-github_username: fpsom       # Social icon in footer
+email: sfragkoul@certh.gr         # Social icon in footer
+twitter_username: scfragkoul       # Social icon in footer
+github_username: sfragkoul       # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
