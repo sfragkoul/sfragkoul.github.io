@@ -1,7 +1,7 @@
 # SITE SETTINGS
-title: Styliani Christina Fragkouli                        # Title in top navigation bar (navbar) and <head>
+title: Styliani-Christina Fragkouli                        # Title in top navigation bar (navbar) and <head>
 description: A Physicist playing with ML & Bioinformatics # Site description in <head>
-author: Styliani Christina Fragkouli                     # Used for copyright statement in footer
+author: Styliani-Christina Fragkouli                     # Used for copyright statement in footer
 url: "https://sfragkoul.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
