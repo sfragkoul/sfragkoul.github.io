@@ -16,8 +16,7 @@ background: /assets/img/groupLogo/publications.jpg
 
 <p style="margin-bottom:15px"></p>
 
-<!-- # 2022
-{% bibliography --query @article[year=2022] %}-->
+{% bibliography --query @article %}
 
 
 <br/>
@@ -25,17 +24,15 @@ background: /assets/img/groupLogo/publications.jpg
 ## Conferences and Announcements
 <p style="margin-bottom:15px"></p>
 
-<!-- # 2022
-{% bibliography --query @inproceedings[year=2022] %}
-{% bibliography --query @conference[year=2022] %}-->
+{% bibliography --query @inproceedings %}
+{% bibliography --query @conference %}
 
 <br/>
 
 ## Other
 <p style="margin-bottom:15px"></p>
 
-<!-- # 2022
-{% bibliography --query @misc[year=2022] %}-->
+{% bibliography --query @misc %}
 
 <br/>
 
