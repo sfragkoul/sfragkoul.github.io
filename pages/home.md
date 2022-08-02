@@ -11,4 +11,4 @@ I am currently a PhD candidate at the Biology department of the National and Kap
 My research interests include machine and deep learning, bioinformatics and somatic variant calling.
     
 
-<! --For more details, look at the [projects](/projects/) and [activities](/activities/) sections.-->
+
