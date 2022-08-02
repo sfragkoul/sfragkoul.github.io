@@ -30,7 +30,11 @@ background: /assets/img/groupLogo/publications.jpg
 {% bibliography --query @conference[year=2022] %}
 <br/>
 
-
+## Other
+<p style="margin-bottom:15px"></p>
+### 2022
+{% bibliography --query @misc[year=2022] %}
+<br/>
 
 
 ### Thesis
