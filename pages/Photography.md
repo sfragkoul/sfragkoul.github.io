@@ -2,7 +2,7 @@
 layout: base
 title: Photography
 permalink: /Photography/
-background: /assets/img/groupLogo/photography.jpg
+background: /assets/img/groupLogo/Photography_2.jpg
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/stellaphysics/51403987369/in/dateposted-public/" title="Kazania View"><img src="https://live.staticflickr.com/65535/51403987369_182de2a5d7_c.jpg" width="800" height="533" alt="Mt. Olympus, Kazania View"></a>
