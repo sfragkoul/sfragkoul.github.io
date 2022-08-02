@@ -8,6 +8,7 @@ background: /assets/img/groupLogo/cv.jpg
 
 
 ### EDUCATION
+<p style="margin-bottom:15px"></p>
 
 - 2022-present    **Ph.D. in Biology**, *National and Kapodistrian University of Athens, Athens, Greece*
 
@@ -23,6 +24,7 @@ Bachelor Thesis: "Study of the merging of a neutron star with a black hole and t
 
 
 ### SCIENTIFIC EXPERIENCE
+<p style="margin-bottom:15px"></p>
 
 - 11/21-present  **Research Assistant** , *Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH)*
 
@@ -35,6 +37,7 @@ Software development for the purposes of master thesis in collaboration with “
 
 
 ### LANGUAGES
+<p style="margin-bottom:15px"></p>
 - 2009	**Certificate of Proficiency in English**
 
 University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
@@ -44,6 +47,7 @@ University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe
 Certificate of German Language Level B1
 
 ### TEACHING
+<p style="margin-bottom:15px"></p>
 - 03/2021 	**Introduction to Python**, *Aristotle University of Thessaloniki*
 
 A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended “Numerical Analysis”. The libraries of NumPy and Matplotlib were also studied.
