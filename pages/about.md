@@ -1,11 +1,14 @@
 ---
-title: About
-description: About the group
+title: About Section
 background: /assets/img/groupLogo/about.jpg
 permalink: /about/
 ---
+### Social Media
 
-## Where find us
+- [Researchgate](https://www.researchgate.net/profile/Styliani-Christina-Fragkouli)<br>
+- [flickr](https://www.flickr.com/photos/stellaphysics/)<br>
+
+## Location
 
 **Institute of Applied Biosciences**
 
@@ -18,11 +21,6 @@ Center for Research and Technology Hellas (CERTH)<br>
 6th km Charilaou-Thermis rd, Thermi<br>
 Thessaloniki 57001, Greece
 
-
-### Social Media
-
-- [Researchgate](https://www.researchgate.net/profile/Styliani-Christina-Fragkouli)<br>
-- [flickr](https://www.flickr.com/photos/stellaphysics/)<br>
 
 
 
