@@ -22,11 +22,11 @@
     href: /collaborations/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "External resources" # Title for block of menu items
-  - text: Lab GitHub
-    href: https://github.com/BiodataAnalysisGroup
+  - text: My GitHub
+    href: https://github.com/sfragkoul
     new_window: true
-- text: Software
-  href: /software/
+#- text: Software
+#  href: /software/
   
 - text: News
   href: /blog/
