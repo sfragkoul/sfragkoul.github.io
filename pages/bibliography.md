@@ -7,7 +7,7 @@ background: /assets/img/groupLogo/publications.jpg
 
 <!-- # Bibliography -->
 
-[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Thesis**](#thesis)
+[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Theses**](#theses)
 
 <br/>
 
@@ -37,7 +37,7 @@ background: /assets/img/groupLogo/publications.jpg
 <br/>
 
 
-## Thesis
+## Theses
 
 {% bibliography --query @phdthesis %}
 {% bibliography --query @masterthesis %}
