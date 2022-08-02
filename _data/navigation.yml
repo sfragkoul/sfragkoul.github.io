@@ -2,33 +2,9 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: The Group
-  menu:  # Dropdown menu (one level deep only)
-  - text: Team
-    href: /team/
-  # - text: Past members
-  #   href: /past-members/
-#  - text: Code of Conduct
-#    href: /coc/
+- text: CV
+  href: /CV/
 - text: Publications
   href: /publications/
-- text: Research
-  menu:  # Dropdown menu (one level deep only)
-  - text: Activities
-    href: /activities/
-  - text: Projects
-    href: /projects/
-  - text: Collaborations
-    href: /collaborations/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "External resources" # Title for block of menu items
-  - text: My GitHub
-    href: https://github.com/sfragkoul
-    new_window: true
-#- text: Software
-#  href: /software/
-  
-- text: News
-  href: /blog/
 - text: About
   href: /about/
