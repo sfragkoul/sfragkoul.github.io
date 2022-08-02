@@ -17,3 +17,4 @@ I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup
     
 
 
+![Me](/assets/img/team/sfragkoul.jpg "Photo taken in Espoo, Finland")
