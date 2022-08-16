@@ -13,7 +13,7 @@ My research interests include machine and deep learning, bioinformatics and soma
 
 
 {: .alert .alert-info}
-<div align="justify">I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/) (also known as the Bioinformatics Lab at the [Institute of Applied Biosciences (INAB / CERTH)](https://inab.certh.gr/))!</div>
+I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/) (also known as the Bioinformatics Lab at the [Institute of Applied Biosciences (INAB / CERTH)](https://inab.certh.gr/))!
     
 
 
