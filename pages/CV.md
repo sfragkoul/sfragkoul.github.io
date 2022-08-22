@@ -39,11 +39,11 @@ background: /assets/img/groupLogo/CV.jpg
 ### LANGUAGES
 <p style="margin-bottom:15px"></p>
 
-- 2009	**Certificate of Proficiency in English**
+- **Certificate of Proficiency in English**
 
    University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
 
-- 2007 	**Goethe-Zertifikat in German**
+- **Goethe-Zertifikat in German**
 
    Certificate of German Language Level B1
 
