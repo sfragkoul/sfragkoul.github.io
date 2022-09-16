@@ -27,4 +27,4 @@ I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup
 
 Myself            |  Our Team
 :-------------------------:|:-------------------------:
-<img src="/assets/img/team/sfragkoul.jpg" alt="Photo taken in Espoo, Finland" width="300"/>  |   <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="232"/>
+<img src="/assets/img/team/sfragkoul.jpg" alt="Photo taken in Espoo, Finland" width="300"/>  |   <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="250"/>
