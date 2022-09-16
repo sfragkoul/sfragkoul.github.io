@@ -24,5 +24,4 @@ I am also keen on photography 📷, plants 🎍 and I have two cats named Milko 
 I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/) (aka Bioinformatics Lab)!
     
 
-
-![Me](/assets/img/team/sfragkoul.jpg "Photo taken in Espoo, Finland")
+<img src="/assets/img/team/sfragkoul.jpg" alt="Photo taken in Espoo, Finland" width="400"/> <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="332"/>
