@@ -50,7 +50,12 @@ background: /assets/img/groupLogo/CV.jpg
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
-- 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki
+- 28/11/2022 - 1/12/2022 	**WES / WGS data analysis**, Institute of Molecular Genetics and Genetic Engineering (IMGGE), Beograd, Serbia
+
+   A training school in bioinformatics which focused on Structure of germline small variant calling, larger variant calling – CNV pipeline, Genome Wide Association Studies and Common Workflow Language and Docker. The pipeline which I taught was that of somatic copy number variation calling.
+
+
+- 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”*. The libraries of NumPy and Matplotlib were also studied.
 [Course Materials](https://github.com/sfragkoul/Python_Intro)
