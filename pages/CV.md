@@ -30,6 +30,18 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: Bioinformatics software development, Machine learning applications, involvement in student internship projects, writing European proposals  (HORIZON, Cost Action etc.), teaching, participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) and Synth Data group. Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
+   **Participation in Funded Projects**:
+   
+   <ins>Gallantries Bridging Training Communities in Life Science, Environment and Health</ins> : Design, development and creation of Bioinformatics educational content.
+   
+     [**Gallantries**](https://gallantries.github.io/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
+   
+    **Duration**: 2020 - 2023
+   
+   **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+   
+    **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons. 
+
 
 - 09/20-09/21 	**Master Student**, Aristotle University of Thessaloniki
 
