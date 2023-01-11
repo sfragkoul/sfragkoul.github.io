@@ -7,7 +7,7 @@ background: /assets/img/groupLogo/publications.jpg
 
 <!-- # Bibliography -->
 
-[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Theses**](#theses)
+[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other**](#other) &nbsp; [**Theses**](#theses)
 
 <br/>
 
