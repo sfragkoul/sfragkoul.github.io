@@ -32,15 +32,7 @@ background: /assets/img/groupLogo/CV.jpg
 
    **Participation in Funded Projects**:
    
-   <ins>Gallantries Bridging Training Communities in Life Science, Environment and Health</ins> : Design, development and creation of Bioinformatics educational content.
-   
-     [**Gallantries**](https://gallantries.github.io/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
-   
-    **Duration**: 2020 - 2023
-   
-   **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
-   
-    **Description**: The Gallantries project has been funded by Erasmus to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche (ErasmusMC, ELIXIR-NL), Fotis Psomopoulos (INAB, CERTH, ELIXIR-GR), Bérénice Batut (University of Freiburg, ELIXIR-DE), Anthony Bretaudeau (INRAE, ELIXIR-FR), and Yvan Le  Bras (MNHN, ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons. 
+    - [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 
 
 - 09/20-09/21 	**Master Student**, Aristotle University of Thessaloniki
