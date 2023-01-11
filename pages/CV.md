@@ -33,6 +33,7 @@ background: /assets/img/groupLogo/CV.jpg
    **Participation in Funded Projects**:
    
     - [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+<br/><br/>
 
 
 - 09/20-09/21 	**Master Student**, Aristotle University of Thessaloniki
