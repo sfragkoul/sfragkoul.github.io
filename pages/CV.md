@@ -28,7 +28,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 11/21-present  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH)
 
-   Duties: Bioinformatics software development, Machine learning applications, involvement in student internship projects, writing European proposals  (HORIZON, Cost Action etc.), teaching, participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) and Synth Data group. Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+   Duties: Bioinformatics software development, AI applications, involvement in student internship projects and master's diploma theses, writing European proposals  (HORIZON, Cost Action etc.), teaching, participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) and Synth Data group. Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    **Participation in Funded Projects**:
    
