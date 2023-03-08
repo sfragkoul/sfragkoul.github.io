@@ -1,6 +1,6 @@
 ---
 layout: home
-description: A Physicist playing with Machine Learning & Bioinformatics
+description: A Physicist playing with Artificial Intelligence & Bioinformatics
 background: /assets/img/groupLogo/home.jpg
 permalink: /
 ---
