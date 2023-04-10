@@ -10,15 +10,15 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- 2022-present    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
+- 2022-present,    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
 
    Doctoral Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervisor [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
 
-- 2019-2021    **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki, Thessaloniki, Greece
+- 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
    Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with Virgo group at AUTh, supervisor [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
-- 2010-2019    **B.Sc. in Physics**, Aristotle University of Thessaloniki, Thessaloniki, Greece
+- 2010-2019,    **B.Sc. in Physics**, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
    Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervisor [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
@@ -26,7 +26,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/21-present  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+- 11/21-present,  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    Duties: 
    
@@ -35,8 +35,6 @@ background: /assets/img/groupLogo/CV.jpg
    3. Writing European proposals  (HORIZON, Cost Action etc.), 
    4. Teaching, 
    5. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
-   
- 
 
    **Participation in Funded Projects**:
    
@@ -44,7 +42,7 @@ background: /assets/img/groupLogo/CV.jpg
 <br/><br/>
 
 
-- 09/20-09/21 	**Master Student**, Aristotle University of Thessaloniki
+- 09/20-09/21, 	**Master Student**, Aristotle University of Thessaloniki
 
    Duties: Software development for the purposes of master thesis in collaboration with “Virgo group at AUTh” led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
