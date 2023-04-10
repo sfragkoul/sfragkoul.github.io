@@ -26,9 +26,17 @@ background: /assets/img/groupLogo/CV.jpg
 ### SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/21-present  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH)
+- 11/21-present  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
-   Duties: Bioinformatics software development, AI applications, involvement in student internship projects and master's diploma theses, writing European proposals  (HORIZON, Cost Action etc.), teaching, participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) and Synth Data group. Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+   Duties: 
+   
+   1. Bioinformatics software development, AI applications, 
+   2. Involvement in student internship projects and master's diploma theses, 
+   3. Writing European proposals  (HORIZON, Cost Action etc.), 
+   4. Teaching, 
+   5. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
+   
+ 
 
    **Participation in Funded Projects**:
    
@@ -62,5 +70,4 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
 
-   A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”*. The libraries of NumPy and Matplotlib were also studied.
-[Course Materials](https://github.com/sfragkoul/Python_Intro)
+   A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
