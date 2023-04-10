@@ -16,7 +16,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
-   Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group|AUTh](https://niksterg.github.io/gw-group/), supervisor [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
+   Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervisor [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
 - 2010-2019,    **B.Sc. in Physics**, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
@@ -44,7 +44,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 09/20-09/21, 	**Master Student**, Aristotle University of Thessaloniki
 
-   Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group|AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
+   Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
 
 ### LANGUAGES
