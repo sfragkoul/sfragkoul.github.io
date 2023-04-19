@@ -14,10 +14,9 @@ I am currently pursuing a PhD in the Biology 🔬 department of the National and
     
 My current research interests include Machine and Deep Learning, Bioinformatics and Cancer Genomics 🧬.
     
-I have also collaborated with the Virgo group at AUTh in the field of Gravitational-wave Astronomy 🪐. 
+I have also collaborated with the Gravitational Waves Group, AUTh in the field of Gravitational-wave Astronomy 🪐. 
     
 I am also keen on photography 📷, plants 🎍 and I have two cats named Milko & Mo 🐈 :)
-
 
 
 {: .alert .alert-info}
