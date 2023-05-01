@@ -23,7 +23,7 @@ background: /assets/img/groupLogo/CV.jpg
    Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervisor [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
 
-### SCIENTIFIC EXPERIENCE
+### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
 - 11/21-present,  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
@@ -47,21 +47,12 @@ background: /assets/img/groupLogo/CV.jpg
    Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
 
-### LANGUAGES
-<p style="margin-bottom:15px"></p>
-
-- **Certificate of Proficiency in English**
-
-   University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
-
-- **Goethe-Zertifikat in German**
-
-   Certificate of German Language Level B1
 
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
 Reviewer duties in *Expert Systems With Application* journal. 
+
 
 ### TEACHING
 <p style="margin-bottom:15px"></p>
@@ -74,3 +65,16 @@ Reviewer duties in *Expert Systems With Application* journal.
 - 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
+
+
+### LANGUAGES
+<p style="margin-bottom:15px"></p>
+
+- **Certificate of Proficiency in English**
+
+   University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
+
+- **Goethe-Zertifikat in German**
+
+   Certificate of German Language Level B1
+
