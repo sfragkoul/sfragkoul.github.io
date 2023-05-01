@@ -58,6 +58,11 @@ background: /assets/img/groupLogo/CV.jpg
 
    Certificate of German Language Level B1
 
+### ACADEMIC SERVICES
+<p style="margin-bottom:15px"></p>
+
+Reviewer duties in *Expert Systems With Application* journal. 
+
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
