@@ -31,7 +31,7 @@ background: /assets/img/groupLogo/CV.jpg
    Duties: 
    
    1. Bioinformatics software development, AI applications, 
-   2. Involvement in student internship projects and master's diploma theses, 
+   2. Involvement in the supervision of student internship projects and Master's diploma theses, 
    3. Writing European proposals  (HORIZON, Cost Action etc.), 
    4. Teaching, 
    5. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
