@@ -35,6 +35,7 @@ background: /assets/img/groupLogo/CV.jpg
    3. Writing European proposals  (HORIZON, Cost Action etc.), 
    4. Teaching, 
    5. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
+   6. Coordination of participating projects for the [BioHackathon](https://biohackathon-europe.org/)
 
    **Participation in Funded Projects**:
    
