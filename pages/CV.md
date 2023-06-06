@@ -53,7 +53,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-Reviewer duties in *Expert Systems With Application* journal. 
+Reviewer duties in *Expert Systems With Applications* journal. 
 
 
 ### TEACHING
