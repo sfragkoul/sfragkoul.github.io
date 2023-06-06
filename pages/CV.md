@@ -59,7 +59,7 @@ Reviewer duties in *Expert Systems With Applications* journal.
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
-- 28/11/2022 - 1/12/2022 	**WES / WGS data analysis**, Institute of Molecular Genetics and Genetic Engineering (IMGGE), Beograd, Serbia
+- 28/11/2022 - 1/12/2022 	**WES / WGS data analysis**, Institute of Molecular Genetics and Genetic Engineering (IMGGE), Belgrade, Serbia
 
    A training workshop in Bioinformatics which focused on germline small variant calling, larger variant calling – CNV pipeline, Genome Wide Association Studies and Common Workflow Language and Docker. The pipeline which I taught was that of somatic copy number variation calling using the [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Course Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
 
