@@ -8,9 +8,9 @@ permalink: /
 
 Hey there, my name is Stella! 
     
-I began my academic journey in **Physics** 🪐 at the Aristotle University of Thessaloniki (AUTh) from which I graduated in 2019 and in 2021 got my MSc in **Digital Media and Computational Intelligence** 👩‍💻.
+I began my academic journey in **Physics** 🪐 followed by an M.Sc. in **Digital Media and Computational Intelligence** 👩‍💻.
     
-I am currently pursuing a PhD in **Bioinformatics** 🧬 at the National and Kapodistrian University of Athens (UoA) and also working as a **research fellow** at the Institute of Applied Biosciences (INAB) in the Center for Research and Technology Hellas (CERTH). 
+I am currently pursuing a Ph.D. in **Bioinformatics** 🧬 and also working as a **research fellow** 👩‍🔬. 
     
 {: .alert .alert-info}
 I am a proud member of the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/) (aka Bioinformatics Lab)!
