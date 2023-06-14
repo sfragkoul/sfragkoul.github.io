@@ -8,9 +8,9 @@ permalink: /
 
 Hey there, my name is Stella! 
     
-I began my academic journey in Physics 🪐 at the department of the Aristotle University of Thessaloniki from which I graduated in 2019 and in 2021 got my MSc in Digital Media and Computational Intelligence 👩‍💻 from the department of Informatics. 
+I began my academic journey in Physics 🪐 in the Aristotle University of Thessaloniki from which I graduated in 2019 and in 2021 got my MSc in Digital Media and Computational Intelligence 👩‍💻 from the department of Informatics. 
     
-I am currently pursuing a PhD in Biology 🧬 at the department of the National and Kapodistrian University of Athens (UoA) under the supervision of Andreas Agathangelidis and also working as a research fellow at the Institute of Applied Biosciences (INAB) in the Center for Research and Technology Hellas (CERTH) under the supervision of Fotis Psomopoulos. 
+I am currently pursuing a PhD in Bioinformatics 🧬 in the National and Kapodistrian University of Athens (UoA) under the supervision of Andreas Agathangelidis and also working as a research fellow at the Institute of Applied Biosciences (INAB) in the Center for Research and Technology Hellas (CERTH) under the supervision of Fotis Psomopoulos. 
     
 I am also keen on photography, plants and I have two cats named Milko & Mo :)
 
