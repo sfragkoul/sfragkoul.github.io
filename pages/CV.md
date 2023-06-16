@@ -26,7 +26,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/21-present,  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+- 11/2021-present,  **Research Fellow** in the [Biodata Analysis Group](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    Duties: 
    
@@ -40,11 +40,11 @@ background: /assets/img/groupLogo/CV.jpg
 
    **Participation in Funded Projects**:
    
-    - [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+    - (11/2021 - present) [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 <br/><br/>
 
 
-- 09/20-09/21, 	**Master Student**, Aristotle University of Thessaloniki
+- 09/2020-09/2021, 	**Master Student**, Aristotle University of Thessaloniki
 
    Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
