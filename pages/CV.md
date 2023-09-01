@@ -39,8 +39,9 @@ background: /assets/img/groupLogo/CV.jpg
 <br/><br/>
 
    **Participation in Funded Projects**:
-   
-    - (11/2021 - present) [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+
+
+    - (11/2021 - 08/2023) [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 <br/><br/>
 
 
