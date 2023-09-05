@@ -72,7 +72,7 @@ Reviewer duties in *Expert Systems With Applications* journal.
 ### SCHOLARSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
-- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accomondation were covered by [ELIXIR](https://elixir-europe.org/).
+- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accomondation covered by [ELIXIR](https://elixir-europe.org/).
 
 ### LANGUAGES
 <p style="margin-bottom:15px"></p>
