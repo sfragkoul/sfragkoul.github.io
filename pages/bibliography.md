@@ -24,7 +24,7 @@ background: /assets/img/groupLogo/publications.jpg
 ## Conferences and Announcements
 <p style="margin-bottom:15px"></p>
 
-{% bibliography --query @inproceedings %}
+
 {% bibliography --query @conference %}
 
 <br/>
