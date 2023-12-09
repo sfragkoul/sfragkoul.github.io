@@ -30,7 +30,7 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: 
    
-   1. Bioinformatics software development, AI applications 
+   1. Bioinformatics software development, ML applications 
    2. Involvement in the supervision of student internship projects and Master's diploma theses 
    3. Writing European proposals  (HORIZON, Cost Action etc.) 
    4. Teaching 
