@@ -57,7 +57,9 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-- **Reviewer** duties in [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal.
+- **Reviewer** duties in
+   - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal and
+   - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal
 - Participation in the **organising committee** of the *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, which took place in Holiday Inn Hotel, in Thessaloniki, Greece, 10-12 October 2023.
 
 
