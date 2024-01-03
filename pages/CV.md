@@ -66,6 +66,11 @@ background: /assets/img/groupLogo/CV.jpg
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
+- 22/01/2024 - 26/01/2024 	**EMBL Course, Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, EMBL Heidelberg and Virtual
+  
+     Helper duties for this hands-on workshop about teaching researchers the fundamental data skills they need to conduct their work and providing high-quality, domain-specific training covering the full lifecycle of data-driven research. The domain-specific approach allows participants to tailor the data, content, and tools to reflect the specific data and analysis needs of different areas. [EMBL Course Page](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
+
+
 - 28/11/2022 - 1/12/2022 	**WES / WGS data analysis**, Institute of Molecular Genetics and Genetic Engineering (IMGGE), Belgrade, Serbia
 
    A training workshop in Bioinformatics which focused on germline small variant calling, larger variant calling – CNV pipeline, Genome Wide Association Studies and Common Workflow Language and Docker. The pipeline which I taught was that of somatic copy number variation calling using the [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Course Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
