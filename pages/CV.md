@@ -66,7 +66,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
-- 22/01/2024 - 26/01/2024 	**EMBL Course, Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, EMBL Heidelberg and Virtual
+- 22/01/2024 - 26/01/2024 	**Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, Heidelberg and Virtual
   
      Helper duties for this hands-on workshop about teaching researchers the fundamental data skills they need to conduct their work and providing high-quality, domain-specific training covering the full lifecycle of data-driven research. The domain-specific approach allows participants to tailor the data, content, and tools to reflect the specific data and analysis needs of different areas. [EMBL Course Page](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
 
