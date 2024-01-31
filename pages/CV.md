@@ -57,7 +57,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-- **Ad hoc reviewer** duties in
+- **Ad hoc reviewer** in
    - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal and
    - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal
 - Participation in **organising committee** of
