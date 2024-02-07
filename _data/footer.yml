@@ -3,15 +3,6 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
-    links:
-    - text: Institute of Applied Biosciences (INAB)
-      href: https://inab.certh.gr/
-      new_window: true
-    - text: Centre for Research and Technology Hellas (CERTH)
-      href: https://www.certh.gr/
-      new_window: true
-
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This is my personal website. <br/> [My GitHub](https://github.com/sfragkoul)
 
