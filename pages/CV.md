@@ -61,3 +61,38 @@ background: /assets/img/groupLogo/CV.jpg
    - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal and
    - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal
 - Participation in **organising committee** of
+  - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
+
+
+### TEACHING
+<p style="margin-bottom:15px"></p>
+
+- 22/01/2024 - 26/01/2024 	**Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, Heidelberg and Virtual
+
+     Helper duties for this hands-on workshop about teaching researchers the fundamental data skills they need to conduct their work and providing high-quality, domain-specific training covering the full lifecycle of data-driven research. The domain-specific approach allows participants to tailor the data, content, and tools to reflect the specific data and analysis needs of different areas. [EMBL Course Page](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
+
+
+- 28/11/2022 - 1/12/2022 	**WES / WGS data analysis**, Institute of Molecular Genetics and Genetic Engineering (IMGGE), Belgrade, Serbia
+
+   A training workshop in Bioinformatics which focused on germline small variant calling, larger variant calling – CNV pipeline, Genome Wide Association Studies and Common Workflow Language and Docker. The pipeline which I taught was that of somatic copy number variation calling using the [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Course Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
+
+
+- 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
+
+   A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
+
+### SCHOLARSHIPS AND AWARDS
+<p style="margin-bottom:15px"></p>
+
+- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
+
+### LANGUAGES
+<p style="margin-bottom:15px"></p>
+
+- **Certificate of Proficiency in English**
+
+   University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
+
+- **Goethe-Zertifikat in German**
+
+   Certificate of German Language Level B1
