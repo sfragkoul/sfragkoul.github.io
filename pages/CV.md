@@ -7,7 +7,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 
 
-### EDUCATION
+## EDUCATION
 <p style="margin-bottom:15px"></p>
 
 - 2022-present,    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
@@ -22,8 +22,9 @@ background: /assets/img/groupLogo/CV.jpg
 
    Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
+<br />
 
-### EMPLOYMENT & SCIENTIFIC EXPERIENCE
+## EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
 - 11/2021-present,  **Research Fellow** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
@@ -52,12 +53,16 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
-### SCHOLARSHIPS AND AWARDS
+<br />
+
+## SCHOLARSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
 - Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
-### ACADEMIC SERVICES
+<br />
+
+## ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
 - **Ad hoc reviewer** in
@@ -66,8 +71,9 @@ background: /assets/img/groupLogo/CV.jpg
 - Participation in **organising committee** of
   - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
 
+<br />
 
-### TEACHING
+## TEACHING
 <p style="margin-bottom:15px"></p>
 
 - 22/01/2024 - 26/01/2024 	**Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, Heidelberg and Virtual
@@ -84,8 +90,9 @@ background: /assets/img/groupLogo/CV.jpg
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
+<br />
 
-### LANGUAGES
+## LANGUAGES
 <p style="margin-bottom:15px"></p>
 
 - **Certificate of Proficiency in English**
