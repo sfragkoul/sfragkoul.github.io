@@ -52,7 +52,10 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
+### SCHOLARSHIPS AND AWARDS
+<p style="margin-bottom:15px"></p>
 
+- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
@@ -81,10 +84,6 @@ background: /assets/img/groupLogo/CV.jpg
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
-### SCHOLARSHIPS AND AWARDS
-<p style="margin-bottom:15px"></p>
-
-- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
 ### LANGUAGES
 <p style="margin-bottom:15px"></p>
