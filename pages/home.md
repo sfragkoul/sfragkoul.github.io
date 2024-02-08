@@ -17,7 +17,7 @@ My research interests encompass a wide range of topics, including:
 - the generation of synthetic biomedical in-silico data.
     
 {: .alert .alert-info}
-I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB|CERTH!
+I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB, CERTH!
     
 
 
