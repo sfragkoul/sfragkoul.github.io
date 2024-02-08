@@ -7,7 +7,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 
 
-## EDUCATION
+###  <div align="center"> EDUCATION </div>
 <p style="margin-bottom:15px"></p>
 
 - 2022-present,    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
@@ -24,7 +24,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-## EMPLOYMENT & SCIENTIFIC EXPERIENCE
+### <div align="center"> EMPLOYMENT & SCIENTIFIC EXPERIENCE </div>
 <p style="margin-bottom:15px"></p>
 
 - 11/2021-present,  **Research Fellow** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
@@ -55,14 +55,14 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-## SCHOLARSHIPS AND AWARDS
+###  <div align="center"> SCHOLARSHIPS AND AWARDS </div>
 <p style="margin-bottom:15px"></p>
 
 - Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
 <br />
 
-## ACADEMIC SERVICES
+###  <div align="center"> ACADEMIC SERVICES </div>
 <p style="margin-bottom:15px"></p>
 
 - **Ad hoc reviewer** in
@@ -73,7 +73,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-## TEACHING
+###  <div align="center"> TEACHING </div>
 <p style="margin-bottom:15px"></p>
 
 - 22/01/2024 - 26/01/2024 	**Exploratory analysis of biological data: data carpentry**, EMBL Advanced Training Centre, Heidelberg and Virtual
@@ -92,7 +92,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-## LANGUAGES
+###  <div align="center"> LANGUAGES </div>
 <p style="margin-bottom:15px"></p>
 
 - **Certificate of Proficiency in English**
