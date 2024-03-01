@@ -50,6 +50,7 @@ background: /assets/img/groupLogo/CV.jpg
    - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal and
    - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal
 - Participation in **organising committee** of
+  - *EOSC-EVERSE Kick-off meeting*, Thessaloniki, Greece, 11-15/03/2024.
   - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
 
 <br />
