@@ -5,25 +5,6 @@ permalink: /CV/
 background: /assets/img/groupLogo/CV.jpg
 ---
 
-
-
-### EDUCATION
-<p style="margin-bottom:15px"></p>
-
-- 2022-present,    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
-
-   Doctoral Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en) & [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
-
-- 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki, Thessaloniki, Greece
-
-   Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
-
-- 2010-2019,    **B.Sc. in Physics**, Aristotle University of Thessaloniki, Thessaloniki, Greece
-
-   Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
-
-<br />
-
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
@@ -89,5 +70,23 @@ background: /assets/img/groupLogo/CV.jpg
 - 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
+
+<br />
+
+
+### EDUCATION
+<p style="margin-bottom:15px"></p>
+
+- 2022-present,    **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece
+
+   Doctoral Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en) & [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
+
+- 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki, Thessaloniki, Greece
+
+   Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
+
+- 2010-2019,    **B.Sc. in Physics**, Aristotle University of Thessaloniki, Thessaloniki, Greece
+
+   Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
 <br />
