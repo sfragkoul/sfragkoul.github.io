@@ -91,14 +91,3 @@ background: /assets/img/groupLogo/CV.jpg
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
 <br />
-
-### LANGUAGES
-<p style="margin-bottom:15px"></p>
-
-- **Certificate of Proficiency in English**
-
-   University of Cambridge ESOL Examinations Level 3 Certificate, Council of Europe Level C2
-
-- **Goethe-Zertifikat in German**
-
-   Certificate of German Language Level B1
