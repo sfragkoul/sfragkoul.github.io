@@ -29,12 +29,11 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: 
    
-   1. Bioinformatics software development, ML applications 
-   2. Involvement in the supervision of student internship projects and Master's diploma theses 
-   3. Writing European proposals  (HORIZON, Cost Action etc.) 
-   4. Teaching 
-   5. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
-   6. Coordination of projects for the [BioHackathon](https://biohackathon-europe.org/)
+   1. Bioinformatics software development, ML applications
+   2. Writing European proposals  (HORIZON, Cost Action etc.)
+   3. Participation in [ELIXIR Machine learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
+   4. Involvement in the supervision of student internship projects and Master's diploma theses 
+   5. Teaching 
 <br/><br/>
 
    **Participation in Funded Projects**:
