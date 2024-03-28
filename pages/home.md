@@ -5,16 +5,15 @@ background: /assets/img/groupLogo/home.jpg
 permalink: /
 ---
 
-
 Hey there, my name is Stella! 
     
 My academic journey:  B.Sc. in **Physics** 🪐 > M.Sc. in **Digital Media and Computational Intelligence** 👩‍💻 > Ph.D. in **Bioinformatics** 🧬 
 
-My main research interests are:
-- applications of **machine learning** in various domains, 
+My research interests include:
+- generation methods of **synthetic biomedical data**,
 - **variant calling** methods for detecting genetic lesions, 
-- **mathematical modeling** of biological systems and 
-- the generation methods of **synthetic biomedical data**.
+- applications of **machine learning** in various domains, 
+- **mathematical modeling** of biological systems.
     
 {: .alert .alert-info}
 I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB, CERTH!
