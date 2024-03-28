@@ -22,4 +22,4 @@ I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.git
 
 Me :)            |  Our Team
 :-------------------------:|:-------------------------:
-<img src="/assets/img/team/sfragkoul.jpg" alt="Photo taken in Espoo, Finland" width="300"/>  |   <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="250"/>
+<img src="/assets/img/team/sfragkoul2.jpg" alt="Photo taken in Espoo, Finland" width="355"/>  |   <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="250"/>
