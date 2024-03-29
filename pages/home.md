@@ -7,7 +7,7 @@ permalink: /
 
 Hey there, my name is Stella! 
     
-My academic journey:  B.Sc. in **Physics** 🪐 > M.Sc. in **Digital Media and Computational Intelligence** 👩‍💻 > Ph.D. in **Bioinformatics** 🧬 
+My academic journey:  B.Sc. in **Physics** 🪐 > M.Sc. in **Machine Learning** 👩‍💻 > Ph.D. in **Bioinformatics** 🧬 
 
 My research interests include:
 - generation methods of **synthetic biomedical data**,
