@@ -9,7 +9,7 @@ Hey there, my name is Stella!
 
 I enjoy learning new things, taking long walks in nature and preparing interesting meals! I am also a huge D&D fan! 🎲🐉🏰🧙🏻‍♂️
 
-</br>
+
 My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** 🧬Ph.D.
 
 My research interests include:
@@ -18,12 +18,11 @@ My research interests include:
 - applications of **machine learning** in various domains, 
 - **mathematical modeling** of biological systems.
 
-  </br>
     
 {: .alert .alert-info}
 I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB, CERTH!
     
-</br>
+
 
 Me :)            |  My Cat - Milko
 :-------------------------:|:-------------------------:
