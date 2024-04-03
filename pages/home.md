@@ -5,9 +5,7 @@ background: /assets/img/groupLogo/home.jpg
 permalink: /
 ---
 
-Hey there, my name is Stella! 
-
-I enjoy learning new things, taking long walks in nature and preparing interesting meals! I am also a huge D&D fan! 🎲🐉🏰🧙🏻‍♂️
+Oh hello there, my name is Stella, nice to meet you! I enjoy exploring new things, taking long walks in nature and preparing flavoursome meals! I am also a D&D adventurer! 🎲🐉🏰🧙🏻‍♂️
 
 
 My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** 🧬Ph.D.
