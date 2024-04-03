@@ -6,7 +6,10 @@ permalink: /
 ---
 
 Hey there, my name is Stella! 
-    
+
+I enjoy learning new things, taking long walks in nature and preparing interesting meals! I am also a huge D&D fan! 🎲🐉🏰🧙🏻‍♂️
+
+</br>
 My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** 🧬Ph.D.
 
 My research interests include:
@@ -14,12 +17,14 @@ My research interests include:
 - **variant calling** methods for detecting genetic lesions, 
 - applications of **machine learning** in various domains, 
 - **mathematical modeling** of biological systems.
+
+  </br>
     
 {: .alert .alert-info}
 I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB, CERTH!
     
+</br>
 
-
-Me :)            |  Our Team
+Me :)            |  My Cat - Milko
 :-------------------------:|:-------------------------:
-<img src="/assets/img/team/sfragkoul2.jpg" alt="Photo taken in Espoo, Finland" width="355"/>  |   <img src="/assets/img/team/team.jpg" alt="Photo taken in INAB@CERTH" width="250"/>
+<img src="/assets/img/team/sfragkoul2.jpg" alt="Photo taken in Espoo, Finland" width="355"/>  |   <img src="/assets/img/team/Milko.JPEG" alt="This is a photo of my cat" width="250"/>
