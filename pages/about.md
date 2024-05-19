@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Academic
 - [Google Scholar](https://scholar.google.com/citations?user=3TM3Aj0AAAAJ&hl=en)<br>
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4067-7123)<br>
+- [ORCID](https://orcid.org/0000-0003-4067-7123)<br>
 - [Researchgate](https://www.researchgate.net/profile/Styliani-Christina-Fragkouli)<br>
 - [Github](https://github.com/sfragkoul)<br>
 
