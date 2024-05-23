@@ -38,7 +38,8 @@ background: /assets/img/groupLogo/CV.jpg
 
    **Participation in Funded Projects**:
 
-    - (09/2023 - present) [**SciLake**](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101058573/program/43108390/details): Design and development of algorithms for analysing big biodata, funder [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04)
+    - (06/2024 - 12/2024) [**EVERSE**](https://everse.software/): Development and design tools and practices for research software quality assessment, funder [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02)
+    - (09/2023 - 05/2024) [**SciLake**](https://scilake.eu/): Design and development of algorithms for analysing big biodata, funder [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04)
     - (11/2021 - 08/2023) [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funder [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 <br/><br/>
 
