@@ -30,8 +30,9 @@ background: /assets/img/groupLogo/CV.jpg
    Duties: 
    
    1. Bioinformatics software development, ML applications
-   2. Active involvement in the writing process of the following accepted EU proposals:
+   2. Active involvement in the writing process of the following **accepted EU proposals**:
          - *AHEAD*, for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
+           
    3. Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
    4. Supervision of student internship projects and Master's diploma theses 
    5. Teaching 
