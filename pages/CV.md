@@ -30,7 +30,8 @@ background: /assets/img/groupLogo/CV.jpg
    Duties: 
    
    1. Bioinformatics software development, ML applications
-   2. Writing European proposals  (HORIZON, Cost Action etc.)
+   2. Active involvement in the writing process of the following accepted European proposals:
+         - *AHEAD*, for the MSCA Staff Exchanges 2023 call [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
    3. Participation in [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
    4. Involvement in the supervision of student internship projects and Master's diploma theses 
    5. Teaching 
