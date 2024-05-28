@@ -25,15 +25,15 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/2021-present,  **Research Fellow** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences (INAB) at The Centre for Research and Technology-Hellas (CERTH), supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+- 11/2021-present,  **Research Fellow** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    Duties: 
    
    1. Bioinformatics software development, ML applications
-   2. Active involvement in the writing process of the following accepted European proposals:
-         - *AHEAD*, for the MSCA Staff Exchanges 2023 call [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
-   3. Participation in [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
-   4. Involvement in the supervision of student internship projects and Master's diploma theses 
+   2. Active involvement in the writing process of the following accepted EU proposals:
+         - *AHEAD*, for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
+   3. Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
+   4. Supervision of student internship projects and Master's diploma theses 
    5. Teaching 
 <br/><br/>
 
