@@ -8,7 +8,7 @@ permalink: /
 Oh hello there, my name is Stella, nice to meet you! I enjoy exploring new things, taking long walks in nature and preparing flavoursome meals! I am also a D&D adventurer! 🎲🐉🏰🧙🏻‍♂️
 
 
-My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** 🧬Ph.D.
+My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** Ph.D.🧬
 
 My research interests include:
 - generation methods of **synthetic biomedical data**,
