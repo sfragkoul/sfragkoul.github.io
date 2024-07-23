@@ -7,10 +7,18 @@ background: /assets/img/groupLogo/publications.jpg
 
 <!-- # Bibliography -->
 
-[**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other**](#other) &nbsp; [**Theses**](#theses)
+[**Book Chapters**](#book-chapters) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other**](#other) &nbsp; [**Theses**](#theses)
 
 <br/>
 
+## Book Chapters
+
+<p style="margin-bottom:15px"></p>
+
+{% bibliography --query @inbook %}
+
+
+<br/>
 
 ## Journals
 
