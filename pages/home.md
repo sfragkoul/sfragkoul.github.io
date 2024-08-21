@@ -24,4 +24,4 @@ I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.git
 
 In  Fjallsárlón Glacier Lagoon, Iceland       |  My Cat - Milko
 :-------------------------:|:-------------------------:
-<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="600"/>  |   <img src="/assets/img/team/Milko.JPEG" alt="This is a photo of my cat" width="200"/>
+<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="440"/>  |   <img src="/assets/img/team/Milko.JPEG" alt="This is a photo of my cat" width="150"/>
