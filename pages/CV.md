@@ -55,10 +55,11 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-### SCHOLARSHIPS AND AWARDS
+### FOLLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
-- Invited attendee position to participate in [BioHackathon](https://biohackathon-europe.org/) as project lead in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
+- Recieved travel funding by the [International Society for Computational Biology](https://www.iscb.org/) to present a poster with title *Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers* at the [ECCB2024 conference](https://eccb2024.fi/) in Turku, Finland, 16-20/09/2024.
+- Invited attendee position to participate in [BioHackathon2023](https://biohackathon-europe.org/) as one of the leads for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2) in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
 <br />
 
