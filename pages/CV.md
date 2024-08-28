@@ -33,7 +33,8 @@ background: /assets/img/groupLogo/CV.jpg
    3.  Supervision of student internships and Master's diploma theses
    4.  Teaching
    5. Active involvement in the writing process of the following **accepted EU proposals**:
-         - *AHEAD* (Project ID:101183031), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
+         - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
+         - [*AHEAD*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
            
 **Participation in Funded Projects**
 
