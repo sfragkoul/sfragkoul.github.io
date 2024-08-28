@@ -38,12 +38,15 @@ background: /assets/img/groupLogo/CV.jpg
    5. Teaching 
 <br/><br/>
 
-   **Participation in Funded Projects**:
+**Participation in Funded Projects**
 
-    - (06/2024 - 12/2024) [**EVERSE**](https://everse.software/): Development and design tools and practices for research software quality assessment, funder [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02)
-    - (09/2023 - 05/2024) [**SciLake**](https://scilake.eu/): Design and development of algorithms for analysing big biodata, funder [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04)
-    - (11/2021 - 08/2023) [**Gallantries**](https://gallantries.github.io/): Design, development and creation of Bioinformatics educational content, funder [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
-<br/><br/>
+| Duration  | Project  | Discription   |  Funder |
+|:-:|:-:|:-:|:-:|
+| 06/2024 - 12/2024    &nbsp; &nbsp; &nbsp; |  [**EVERSE**](https://everse.software/) | Development and design tools and practices for <br/> research software quality assessment  |  [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
+| 09/2023 - 05/2024 &nbsp; &nbsp; &nbsp; |  [**SciLake**](https://scilake.eu/) |  Design and development of algorithms for <br/> analysing big biodata |  [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
+|  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
+
+<br/>
 
 - 07/2022-present, 	**PhD Student**, National and Kapodistrian University of Athens, Athens, Greece
 
