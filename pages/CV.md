@@ -20,7 +20,6 @@ background: /assets/img/groupLogo/CV.jpg
 
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
-<br />
 
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
@@ -36,7 +35,7 @@ background: /assets/img/groupLogo/CV.jpg
    3. Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
    4. Supervision of student internship projects and Master's diploma theses 
    5. Teaching 
-<br/><br/>
+
 
 **Participation in Funded Projects**
 
@@ -46,7 +45,7 @@ background: /assets/img/groupLogo/CV.jpg
 | 09/2023 - 05/2024 &nbsp; &nbsp; &nbsp; |  [**SciLake**](https://scilake.eu/) |  Design and development of algorithms for <br/> analysing big biodata |  [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 |  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
 
-<br/>
+
 
 - 07/2022-present, 	**PhD Student**, National and Kapodistrian University of Athens, Athens, Greece
 
@@ -56,7 +55,7 @@ background: /assets/img/groupLogo/CV.jpg
 
    Duties: Software development for the purposes of master thesis in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el) which consisted of members from the departments of Informatics and Physics from AUTh and the department of Physics from UoA.
 
-<br />
+
 
 ### FELLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
@@ -64,7 +63,7 @@ background: /assets/img/groupLogo/CV.jpg
 - Recieved travel funding by the [International Society for Computational Biology](https://www.iscb.org/) to present a poster with title *Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers* at the [ECCB2024 conference](https://eccb2024.fi/) in Turku, Finland, 16-20/09/2024.
 - Invited attendee position to participate in [BioHackathon2023](https://biohackathon-europe.org/) as one of the leads for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2) in Barcelona, Spain for the period 31/10/2023-01/11/2023. All travel expenses and accommodation covered by [ELIXIR](https://elixir-europe.org/).
 
-<br />
+
 
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
@@ -79,7 +78,6 @@ background: /assets/img/groupLogo/CV.jpg
   - [*EOSC-EVERSE Kick-off meeting*](https://everse.software/), Thessaloniki, Greece, 11-15/03/2024.
   - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
 
-<br />
 
 ### TEACHING
 <p style="margin-bottom:15px"></p>
@@ -97,8 +95,6 @@ background: /assets/img/groupLogo/CV.jpg
 - 03/2021 	**Introduction to Python**, Aristotle University of Thessaloniki, Virtual Event
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
-
-<br />
 
 
 ### MEMBERSHIPS
