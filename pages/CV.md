@@ -10,15 +10,15 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens, Athens, Greece
 
-   Doctoral Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en) & [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
+  Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en) & [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
 
 - 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
-   Master Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
+  Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
 - 2010-2019,    **B.Sc. in Physics**, Physics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
-   Bachelor Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
+  Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
 <br />
 
