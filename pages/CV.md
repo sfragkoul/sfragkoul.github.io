@@ -55,7 +55,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 <br />
 
-### FOLLOWSHIPS AND AWARDS
+### FELLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
 - Recieved travel funding by the [International Society for Computational Biology](https://www.iscb.org/) to present a poster with title *Synth4bench: generating synthetic genomics data for the evaluation of somatic variant callers* at the [ECCB2024 conference](https://eccb2024.fi/) in Turku, Finland, 16-20/09/2024.
