@@ -30,9 +30,12 @@ background: /assets/img/groupLogo/CV.jpg
    
    1. Bioinformatics software development, ML applications
    2.  Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
-   3.  Supervision of student internships and Master's diploma theses
-   4.  Teaching
-   5. Active involvement in the writing process of the following **accepted EU proposals**:
+   3.  Student Supervision
+         - 02/2023 - 08/2024,  Andreas Kechagias, Master's Thesis, Department of molecular Biology and genetics, Democritus University of Thrace,  *Generative Methods in Bioinformatics: The use case of synthetic genomics data*
+         - 09/2022 - 11/2022, Konstantinos Kardamiliotis, Internship, School of Medicine, Aristotle University of Thessaloniki, *Somatic variant calling pipelines*
+         - 07/2022 - 08/2022, Makropoulos Konstantinos, Internship, Department of Computer Science and Biomedical Informatics, University of Thessaly, *Exploration of the agreement for variant calling algorithms on Galaxy*
+   5.  Teaching
+   6. Active involvement in the writing process of the following **accepted EU proposals**:
          - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
          - [*AHEAD*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
            
@@ -43,7 +46,6 @@ background: /assets/img/groupLogo/CV.jpg
 | 06/2024 - 12/2024    &nbsp; &nbsp; &nbsp; |  [**EVERSE**](https://everse.software/) | Development and design tools and practices for <br/> research software quality assessment  |  [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
 | 09/2023 - 05/2024 &nbsp; &nbsp; &nbsp; |  [**SciLake**](https://scilake.eu/) |  Design and development of algorithms for <br/> analysing big biodata |  [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 |  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
-
 
 
 - 07/2022-present, 	**PhD Student**, National and Kapodistrian University of Athens, Athens, Greece
