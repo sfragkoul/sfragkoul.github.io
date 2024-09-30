@@ -31,9 +31,6 @@ background: /assets/img/groupLogo/CV.jpg
    1. Bioinformatics software development, ML applications
    2.  Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
    3.  Student Internships and Master Theses Supervision
-        <!-- - 02/2023 - 08/2024,  Andreas Kechagias, Master's Thesis, Department of molecular Biology and genetics, Democritus University of Thrace,  *Generative Methods in Bioinformatics: The use case of synthetic genomics data*
-         - 09/2022 - 11/2022, Konstantinos Kardamiliotis, Internship, School of Medicine, Aristotle University of Thessaloniki, *Somatic variant calling pipelines*
-         - 07/2022 - 08/2022, Makropoulos Konstantinos, Internship, Department of Computer Science and Biomedical Informatics, University of Thessaly, *Exploration of the agreement for variant calling algorithms on Galaxy* -->
    4.  Teaching
    5. Active involvement in the writing process of the following **accepted EU proposals**:
          - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
@@ -75,7 +72,7 @@ background: /assets/img/groupLogo/CV.jpg
    - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal (1)
 
 
-- Participation in **organising committee** of
+- Participation in the **organising committee** of
   - [*EOSC-EVERSE Kick-off meeting*](https://everse.software/), Thessaloniki, Greece, 11-15/03/2024.
   - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
 
