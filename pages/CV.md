@@ -10,7 +10,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens, Athens, Greece
 
-  Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Andreas Agathangelidis](https://scholar.google.it/citations?user=IhoRB4AAAAAJ&hl=en)
+  Thesis: *“Design and development of bioinformatics tools for the effective and systematic detection of somatic variants with emphasis on low frequency variants”*, supervision by [Andreas Agathangelidis](https://scholar.google.com/citations?user=IhoRB4AAAAAJ&hl=en)
 
 - 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
