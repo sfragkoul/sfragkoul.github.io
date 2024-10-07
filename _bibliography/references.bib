@@ -8,7 +8,7 @@
 @masterthesis{thesis2021,
     title    = {Deep Learning Applications on Gravitational Waves},
     school   = {Informatics Department, Aristotle University of Thessaloniki},
-    author   = {Styliani-Christina Fragkouli},
+    author   = {<b>S.-C. Fragkouli</b>},
     year     = {2021},
     url = {https://ikee.lib.auth.gr/record/335161},
     type     = {Master's Thesis}
@@ -17,7 +17,7 @@
 @masterthesis{thesis2017,
     title    = {Study of the merging of a neutron star with a black hole and the role of the equation of state},
     school   = {Physics Department, Aristotle University of Thessaloniki},
-    author   = {Styliani-Christina Fragkouli},
+    author   = {<b>S.-C. Fragkouli</b>},
     year     = {2017},
     url = {http://ikee.lib.auth.gr/record/294627/files/thesis.pdf},
     type     = {Bachelor's Thesis}
@@ -62,7 +62,7 @@ year = {2023},
 issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2023.110746},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494623007640},
-author = {Styliani-Christina Fragkouli and Paraskevi Nousi and Nikolaos Passalis and Panagiotis Iosif and Nikolaos Stergioulas and Anastasios Tefas},
+author = {<b>S.-C. Fragkouli</b> and Paraskevi Nousi and Nikolaos Passalis and Panagiotis Iosif and Nikolaos Stergioulas and Anastasios Tefas},
 abstract = {Deep learning methods have been employed in gravitational-wave astronomy to accelerate the construction of surrogate waveforms for the inspiral of spin-aligned black hole binaries, among other applications. We face the challenge of modeling the residual error of an artificial neural network that models the coefficients of the surrogate waveform expansion (especially those of the phase of the waveform) which we demonstrate has sufficient structure to be learnable by a second network. Adding this second network, we were able to reduce the maximum mismatch for waveforms in a validation set by 13.4 times. We also explored several other ideas for improving the accuracy of the surrogate model, such as the exploitation of similarities between waveforms, the augmentation of the training set, the dissection of the input space, using dedicated networks per output coefficient and output augmentation. In several cases, small improvements can be observed, but the most significant improvement still comes from the addition of a second network that models the residual error. Since the residual error for more general surrogate waveform models (when e.g., eccentricity is included) may also have a specific structure, one can expect our method to be applicable to cases where the gain in accuracy could lead to significant gains in computational time.}
 }
 
@@ -73,7 +73,7 @@ url = {https://doi.org/10.1093%2Fbib%2Fbbac349},
 year = 2022,	
 month = {aug},	
 publisher = {Oxford University Press ({OUP})},	
-author = {Laura Zaragoza-Infante and Valentin Junet and Nikos Pechlivanis and Styliani-Christina Fragkouli and Serovpe Amprachamian and Triantafyllia Koletsa and Anastasia Chatzidimitriou and Maria Papaioannou and Kostas Stamatopoulos and Andreas Agathangelidis and Fotis Psomopoulos},	
+author = {Laura Zaragoza-Infante and Valentin Junet and Nikos Pechlivanis and <b>S.-C. Fragkouli</b> and Serovpe Amprachamian and Triantafyllia Koletsa and Anastasia Chatzidimitriou and Maria Papaioannou and Kostas Stamatopoulos and Andreas Agathangelidis and Fotis Psomopoulos},	
 title = {{IgIDivA}: immunoglobulin intraclonal diversification analysis},	
 journal = {Briefings in Bioinformatics},
 abstract = {Intraclonal diversification (ID) within the immunoglobulin (IG) genes expressed by B cell clones arises due to ongoing somatic hypermutation (SHM) in a context of continuous interactions with antigen(s). Defining the nature and order of appearance of SHMs in the IG genes can assist in improved understanding of the ID process, shedding light into the ontogeny and evolution of B cell clones in health and disease. Such endeavor is empowered thanks to the introduction of high-throughput sequencing in the study of IG gene repertoires. However, few existing tools allow the identification, quantification and characterization of SHMs related to ID, all of which have limitations in their analysis, highlighting the need for developing a purpose-built tool for the comprehensive analysis of the ID process. In this work, we present the immunoglobulin intraclonal diversification analysis (IgIDivA) tool, a novel methodology for the in-depth qualitative and quantitative analysis of the ID process from high-throughput sequencing data. IgIDivA identifies and characterizes SHMs that occur within the variable domain of the rearranged IG genes and studies in detail the connections between identified SHMs, establishing mutational pathways. Moreover, it combines established and new graph-based metrics for the objective determination of ID level, combined with statistical analysis for the comparison of ID level features for different groups of samples. Of importance, IgIDivA also provides detailed visualizations of ID through the generation of purpose-built graph networks. Beyond the method design, IgIDivA has been also implemented as an R Shiny web application. IgIDivA is freely available at https://bio.tools/igidiva}
@@ -89,7 +89,7 @@ year = {2022},
 issn = {0925-2312},
 doi = {https://doi.org/10.1016/j.neucom.2022.03.052},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231222003472},
-author = {Paraskevi Nousi and Styliani-Christina Fragkouli and Nikolaos Passalis and Panagiotis Iosif and Theocharis Apostolatos and George Pappas and Nikolaos Stergioulas and Anastasios Tefas},
+author = {Paraskevi Nousi and <b>S.-C. Fragkouli</b> and Nikolaos Passalis and Panagiotis Iosif and Theocharis Apostolatos and George Pappas and Nikolaos Stergioulas and Anastasios Tefas},
 keywords = {Gravitational waves, Autoencoders, Spiral, Surrogate modelling},
 abstract = {Recently, artificial neural networks have been gaining momentum in the field of gravitational wave astronomy, for example in surrogate modelling of computationally expensive waveform models for binary black hole inspiral and merger. Surrogate modelling yields fast and accurate approximations of gravitational waves and neural networks have been used in the final step of interpolating the coefficients of the surrogate model for arbitrary waveforms outside the training sample. We investigate the existence of underlying structures in the empirical interpolation coefficients using autoencoders. We demonstrate that when the coefficient space is compressed to only two dimensions, a spiral structure appears, wherein the spiral angle is linearly related to the mass ratio. Based on this finding, we design a spiral module with learnable parameters, that is used as the first layer in a neural network, which learns to map the input space to the coefficients. The spiral module is evaluated on multiple neural network architectures and consistently achieves better speed-accuracy trade-off than baseline models. A thorough experimental study is conducted and the final result is a surrogate model which can evaluate millions of input parameters in a single forward pass in under 1 ms on a desktop GPU, while the mismatch between the corresponding generated waveforms and the ground-truth waveforms is better than the compared baseline methods. We anticipate the existence of analogous underlying structures and corresponding computational gains also in the case of spinning black hole binaries.}
 }
@@ -99,7 +99,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 %		       Conferences
 %==========================================================
 @conference{synth4bench_HSCBB23,
-  author       = {Styliani-Christina Fragkouli and Nikolaos Pechlivanis and Aspasia Orfanou and Anastasia Anastasiadou and Andreas Agathangelidis and Fotis Psomopoulos},
+  author       = {<b>S.-C. Fragkouli</b> and Nikolaos Pechlivanis and Aspasia Orfanou and Anastasia Anastasiadou and Andreas Agathangelidis and Fotis Psomopoulos},
   title        = {Synth4bench: a framework for generating synthetic genomics data for the evaluation of somatic variant calling algorithms, 17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB)},
   journal      = {17th Conference of Hellenic Society for Computational Biology and Bioinformatics (HSCBB)},
   year         = {2023},
@@ -110,7 +110,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 
 @conference{synthECCB23,
-  author       = {Styliani-Christina Fragkouli and Nikolaos Pechlivanis and Andreas Agathangelidis and Fotis Psomopoulos},
+  author       = {<b>S.-C. Fragkouli</b> and Nikolaos Pechlivanis and Andreas Agathangelidis and Fotis Psomopoulos},
   title        = {Synthetic Genomics Data Generation and Evaluation for the Use Case of Benchmarking Somatic Variant Calling Algorithms, 31st Conference in Intelligent Systems For Molecular Biology and the 22nd European Conference On Computational Biology (ISΜB-ECCB23)  },
   journal      = {31st Conference in Intelligent Systems For Molecular Biology and the 22nd European Conference On Computational Biology (ISΜB-ECCB23), },
   year         = {2023},
@@ -121,7 +121,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 
 @conference{scfeaECCB23,
-  author       = {George Gavriilidis and Styliani-Christina Fragkouli and Eleni Theodosiou and Vasileios Vasileiou and Sofoklis Keisaris and Fotis Psomopoulos},
+  author       = {George Gavriilidis and <b>S.-C. Fragkouli</b> and Eleni Theodosiou and Vasileios Vasileiou and Sofoklis Keisaris and Fotis Psomopoulos},
   title        = {SCell-wise fluxomics of Chronic Lymphocytic Leukemia single-cell data reveal novel metabolic adaptations to Ibrutinib therapy, 31st Conference in Intelligent Systems For Molecular Biology and the 22nd European Conference On Computational Biology (ISΜB-ECCB23)  },
   journal      = {31st Conference in Intelligent Systems For Molecular Biology and the 22nd European Conference On Computational Biology (ISΜB-ECCB23), },
   year         = {2023},
@@ -131,7 +131,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @conference{HSCBB22,
-  author       = {Styliani-Christina Fragkouli and Andreas Agathangelidis and Fotis Psomopoulos},
+  author       = {<b>S.-C. Fragkouli</b> and Andreas Agathangelidis and Fotis Psomopoulos},
   title        = {Shedding Light on Somatic Variant Calling, 16th Conference of the Hellenic Society for Computational Biology and Bioinformatics HSCBB22},
   journal      = {16th Conference of the Hellenic Society for Computational Biology and Bioinformatics HSCBB22},
   year         = {2022},
@@ -145,7 +145,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 @misc{attafi2024domeregistryimplementingcommunitywide__paper_preprint,
       title={DOME Registry: Implementing community-wide recommendations for reporting supervised machine learning in biology}, 
-      author={Omar Abdelghani Attafi and Damiano Clementel and Konstantinos Kyritsis and Emidio Capriotti and Gavin Farrell and Styliani-Christina Fragkouli and Leyla Jael Castro and András Hatos and Tom Lenaerts and Stanislav Mazurenko and Soroush Mozaffari and Franco Pradelli and Patrick Ruch and Castrense Savojardo and Paola Turina and Federico Zambelli and Damiano Piovesan and Alexander Miguel Monzon and Fotis Psomopoulos and Silvio C. E. Tosatto},
+      author={Omar Abdelghani Attafi and Damiano Clementel and Konstantinos Kyritsis and Emidio Capriotti and Gavin Farrell and <b>S.-C. Fragkouli</b> and Leyla Jael Castro and András Hatos and Tom Lenaerts and Stanislav Mazurenko and Soroush Mozaffari and Franco Pradelli and Patrick Ruch and Castrense Savojardo and Paola Turina and Federico Zambelli and Damiano Piovesan and Alexander Miguel Monzon and Fotis Psomopoulos and Silvio C. E. Tosatto},
       year={2024},
       eprint={2408.07721},
       archivePrefix={arXiv},
@@ -164,7 +164,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{FragkouliAHM24,
-	author = {Styliani-Christina Fragkouli and Nikos Pechlivanis and Anastasia Anastasiadou and Georgios Karakatsoulis and Aspasia Orfanou and Panagoula Kollia and Andreas Agathangelidis and Fotis E Psomopoulos},
+	author = {<b>S.-C. Fragkouli</b> and Nikos Pechlivanis and Anastasia Anastasiadou and Georgios Karakatsoulis and Aspasia Orfanou and Panagoula Kollia and Andreas Agathangelidis and Fotis E Psomopoulos},
 	title = {Exploring Somatic Variant Callers' Behavior:  A Synthetic Genomics Feature Space Approach},
 	howpublished = {ELIXIR All Hands Meeting},
 	month = {June},
@@ -175,7 +175,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 @misc{fragkouli2024syntheticdatausedinfectious__paper_preprint,
       title={Synthetic data: How could it be used for infectious disease research?}, 
-      author={Styliani-Christina Fragkouli and Dhwani Solanki and Leyla J Castro and Fotis E Psomopoulos and Núria Queralt-Rosinach and Davide Cirillo and Lisa C Crossman},
+      author={<b>S.-C. Fragkouli</b> and Dhwani Solanki and Leyla J Castro and Fotis E Psomopoulos and Núria Queralt-Rosinach and Davide Cirillo and Lisa C Crossman},
       year={2024},
       eprint={2407.06211},
       archivePrefix={arXiv},
@@ -185,7 +185,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 
 @misc{CAN.Heal_Paris,
-	author = {Styliani-Christina Fragkouli and Fotis E Psomopoulos},
+	author = {<b>S.-C. Fragkouli</b> and Fotis E Psomopoulos},
 	title = {WP11 –NGS INCLUDING LIQUID BIOPSY},
 	booktitle = {CAN.Heal consortium meeting},
 	year = {2024},
@@ -197,7 +197,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 
 @misc{Fragkouli2024.03.07.582313__paper_preprint,
-	author = {Styliani-Christina Fragkouli and Nikos Pechlivanis and Anastasia Anastasiadou and Georgios Karakatsoulis and Aspasia Orfanou and Panagoula Kollia and Andreas Agathangelidis and Fotis E Psomopoulos},
+	author = {<b>S.-C. Fragkouli</b> and Nikos Pechlivanis and Anastasia Anastasiadou and Georgios Karakatsoulis and Aspasia Orfanou and Panagoula Kollia and Andreas Agathangelidis and Fotis E Psomopoulos},
 	title = {Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms},
 	year = {2024},
 	doi = {10.1101/2024.03.07.582313},
@@ -205,7 +205,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{10SynthDatasets,
-  author = {Styliani-Christina Fragkouli and Andreas  Agathangelidis  and Fotis E. Psomopoulos},
+  author = {<b>S.-C. Fragkouli</b> and Andreas  Agathangelidis  and Fotis E. Psomopoulos},
   title = {10 Synthetic Genomics Datasets},
   year = {2024},
   month = {Feb},
@@ -215,14 +215,14 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{elixireuropeRDMkit,
-	author = {Fonzino Adriano and Edward Parkinson and Deferico Bianchini and Fotis Psomopoulos and Mihaly Varadi and Munazah Andrabi and Styliani-Christina Fragkouli and Uladzislau Vadadokhau},
+	author = {Fonzino Adriano and Edward Parkinson and Deferico Bianchini and Fotis Psomopoulos and Mihaly Varadi and Munazah Andrabi and <b>S.-C. Fragkouli</b> and Uladzislau Vadadokhau},
 	title = {RDMkit, Your Domain, Machine Learning},
 	url = {https://rdmkit.elixir-europe.org/machine_learning},
 	year = {2024}
 }
 
 @misc{TP53synthdata,
-  author = {Styliani-Christina Fragkouli and Andreas  Agathangelidis  and Fotis E. Psomopoulos},
+  author = {<b>S.-C. Fragkouli</b> and Andreas  Agathangelidis  and Fotis E. Psomopoulos},
   title = {TP53 synthetic genomics data for benchmarking variant callers},
   year = {2023},
   month = {June},
@@ -232,7 +232,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{DOME,
-  author       = {Styliani-Christina Fragkouli},
+  author       = {<b>S.-C. Fragkouli</b>},
   title        = {DOME ANNOTATION: THE CROWDSOURCING EFFORT},
   booktitle    = {ELIXIR DOME Strategic Implementation Study Kickoff meeting},
   year         = {2023},
@@ -243,7 +243,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 
 
 @misc{lineagespot,
-  author = {Nikolaos Pechlivanis and Maria Tsagiopoulou and Maria Christina Maniou and Anastasis Togkousidis and Evangelia Mouchtaropoulou and Taxiarchis Chassalevris and Serafeim Chaintoutis and Chrysostomos Dovas and Maria Petala and Margaritis Kostoglou and Thodoris Karapantsios and Stamatia Laidou and Elisavet Vlachonikola and Aspasia Orfanou and, Styliani-Christina Fragkouli and Sofoklis Keisaris and Anastasia Chatzidimitriou and Agis Papadopoulos and Nikolaos Papaioannou and Anagnostis Argiriou and Fotis E. Psomopoulos},
+  author = {Nikolaos Pechlivanis and Maria Tsagiopoulou and Maria Christina Maniou and Anastasis Togkousidis and Evangelia Mouchtaropoulou and Taxiarchis Chassalevris and Serafeim Chaintoutis and Chrysostomos Dovas and Maria Petala and Margaritis Kostoglou and Thodoris Karapantsios and Stamatia Laidou and Elisavet Vlachonikola and Aspasia Orfanou and <b>S.-C. Fragkouli</b> and Sofoklis Keisaris and Anastasia Chatzidimitriou and Agis Papadopoulos and Nikolaos Papaioannou and Anagnostis Argiriou and Fotis E. Psomopoulos},
   title = {Detection of SARS-CoV-2 lineages in wastewater samples using next-generation sequencing},
   year = {2022},
   note = {Bioconductor Package},
@@ -254,7 +254,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 @misc{https://doi.org/10.48550/arxiv.2203.08434,
   doi = {10.48550/ARXIV.2203.08434},
   url = {https://arxiv.org/abs/2203.08434},
-  author = {Fragkouli, Styliani-Christina and Nousi, Paraskevi and Passalis, Nikolaos and Iosif, Panagiotis and Stergioulas, Nikolaos and Tefas, Anastasios},
+  author = {<b>S.-C. Fragkouli</b> and Nousi, Paraskevi and Passalis, Nikolaos and Iosif, Panagiotis and Stergioulas, Nikolaos and Tefas, Anastasios},
   keywords = {Instrumentation and Methods for Astrophysics (astro-ph.IM), High Energy Astrophysical Phenomena (astro-ph.HE), Machine Learning (cs.LG), General Relativity and Quantum Cosmology (gr-qc), FOS: Physical sciences, FOS: Physical sciences, FOS: Computer and information sciences, FOS: Computer and information sciences},
   title = {Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Modeling},
   publisher = {arXiv},
@@ -262,7 +262,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{VirgoPresentation,
-	author = {Styliani-Christina Fragkouli},
+	author = {<b>S.-C. Fragkouli</b>},
 	title = {Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Μodeling},
 	booktitle = {LIGO-Virgo-Kagra Collaboration Waveform WG meeting},
 	year = {2022},
@@ -272,7 +272,7 @@ abstract = {Recently, artificial neural networks have been gaining momentum in t
 }
 
 @misc{G2net,
-  author       = {Styliani-Christina Fragkouli and Paraskevi Nousi and Nikolaos Passalis and Panagiotis Iosif and Nikolaos Stergioulas and Anastasios Tefas},
+  author       = {<b>S.-C. Fragkouli</b> and Paraskevi Nousi and Nikolaos Passalis and Panagiotis Iosif and Nikolaos Stergioulas and Anastasios Tefas},
   title        = {Deep Residual Error and Bag-of-Tricks Learning for Gravitational Wave Surrogate Modeling},
   booktitle    = {G2net WG1(Machine Learning for Gravitational Wave Astronomy) meeting},
   year         = {2022},
