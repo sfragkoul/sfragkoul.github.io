@@ -12,7 +12,7 @@ permalink: /about/
 
 
 ### Social Media
-- [LinkedIn](https://www.linkedin.com/in/styliani-christina-fragkouli-57131811b/)<br>
+- [LinkedIn](https://www.linkedin.com/in/sfragkoul/)<br>
 - [flickr](https://www.flickr.com/photos/stellaphysics/)<br>
 
 ## Location
