@@ -67,9 +67,11 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Ad hoc reviewer** in
-   - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal (2)
-   - [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) journal (2)
-   - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal (1)
+  
+  - [*IEEE Data Descriptions*](https://www.ieee-data.org/) journal (1)
+  - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal (2)
+  - [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) journal (2)
+  - [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal (1)
 
 
 - Participation in the **organising committee** of
