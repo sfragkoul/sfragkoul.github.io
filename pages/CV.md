@@ -24,10 +24,9 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/2021-present,  **Research Fellow** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+- 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    Duties: 
-   
    1. Bioinformatics software development, ML applications
    2.  Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
    3.  Student Internships and Master Theses Supervision
