@@ -66,7 +66,7 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Ad hoc reviewer** in
-  
+  - [*Bioinformatics Advances*](https://academic.oup.com/bioinformaticsadvances) journal (1)
   - [*IEEE Data Descriptions*](https://www.ieee-data.org/) journal (1)
   - [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal (2)
   - [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) journal (2)
