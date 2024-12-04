@@ -11,10 +11,12 @@ Oh hello there, my name is Stella, nice to meet you! I enjoy exploring new thing
 My journey: **Physics** B.Sc.🪐 > **Machine Learning** M.Sc.👩‍💻 > **Bioinformatics** Ph.D.🧬
 
 My research interests include:
-- generation methods of **synthetic biomedical data**,
-- **variant calling** methods for detecting genetic lesions, 
-- applications of **machine learning** in various domains, 
-- **mathematical modeling** of biological systems.
+
+- **machine learning**
+- **synthetic data**
+- **variant calling**
+- **surrogate modelling**
+
 
     
 {: .alert .alert-info}
