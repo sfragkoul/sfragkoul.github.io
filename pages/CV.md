@@ -39,6 +39,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 | Duration  | Project  | Description   |  Funder |
 |:-:|:-:|:-:|:-:|
+| 01/2025 - 06/2025    &nbsp; &nbsp; &nbsp; |  [**SYNTHIA**](https://www.ihi-synthia.eu/) | Development of algorithms for <br/> the generation and evaluation of synthetic data  |  [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
 | 06/2024 - 12/2024    &nbsp; &nbsp; &nbsp; |  [**EVERSE**](https://everse.software/) | Development and design tools and practices for <br/> research software quality assessment  |  [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
 | 09/2023 - 05/2024 &nbsp; &nbsp; &nbsp; |  [**SciLake**](https://scilake.eu/) |  Design and development of algorithms for <br/> analysing big biodata |  [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 |  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
