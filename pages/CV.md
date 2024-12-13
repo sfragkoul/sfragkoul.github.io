@@ -8,15 +8,15 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- 2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens, Athens, Greece
+- 06/2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens, Athens, Greece
 
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low frequency variants”*, supervision by [Andreas Agathangelidis](https://scholar.google.com/citations?user=IhoRB4AAAAAJ&hl=en)
 
-- 2019-2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
+- 09/2019-09/2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
   Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
-- 2010-2019,    **B.Sc. in Physics**, Physics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
+- 10/2010-04/2019,    **B.Sc. in Physics**, Physics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
 
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
@@ -39,7 +39,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 | Duration  | Project  | Description   |  Funder |
 |:-:|:-:|:-:|:-:|
-| 01/2025 - 06/2025    &nbsp; &nbsp; &nbsp; |  [**SYNTHIA**](https://www.ihi-synthia.eu/) | Development of algorithms for <br/> the generation and evaluation of synthetic data  |  [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
+| 01/2025 - present    &nbsp; &nbsp; &nbsp; |  [**SYNTHIA**](https://www.ihi-synthia.eu/) | Development of algorithms for <br/> the generation and evaluation of synthetic data  |  [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
 | 06/2024 - 12/2024    &nbsp; &nbsp; &nbsp; |  [**EVERSE**](https://everse.software/) | Development and design tools and practices for <br/> research software quality assessment  |  [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
 | 09/2023 - 05/2024 &nbsp; &nbsp; &nbsp; |  [**SciLake**](https://scilake.eu/) |  Design and development of algorithms for <br/> analysing big biodata |  [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 |  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
