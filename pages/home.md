@@ -18,10 +18,6 @@ My research interests include:
 - **surrogate modelling**
 
 
-    
-{: .alert .alert-info}
-I am a proud member of the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) at INAB, CERTH!
-    
 
 
 In  [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n) holding a piece of glacier!      |  Milko
