@@ -8,16 +8,15 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- 06/2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens, Athens, Greece
-
+- 06/2022-present,    **Ph.D. in Biology**, Biology Department, National and Kapodistrian University of Athens<br>
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low frequency variants”*, supervision by [Andreas Agathangelidis](https://scholar.google.com/citations?user=IhoRB4AAAAAJ&hl=en)
 
-- 09/2019-09/2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
-
+- 09/2019-09/2021,    **M.Sc. in Digital Media and Computational Intelligence**, Informatics Department, Aristotle University of Thessaloniki<br>
+  Grade: 9.20/10 (Excellent)<br>
   Thesis: *"Applications of Deep Learning on gravitational waves"* in collaboration with [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/), supervision by [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
-- 10/2010-04/2019,    **B.Sc. in Physics**, Physics Department, Aristotle University of Thessaloniki, Thessaloniki, Greece
-
+- 10/2010-04/2019,    **B.Sc. in Physics**, Physics Department, Aristotle University of Thessaloniki<br>
+  Grade: 6.64/10 (Very Good)<br>
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*, supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
 
