@@ -85,7 +85,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### TEACHING
 <p style="margin-bottom:15px"></p>
 
-- 19/05/2025 - 23/05/2025 	**Artificial Intelligence and Machine Learning in Life Sciences: from foundations to applications**, Aussois, Savoie (73), France
+- 19/05/2025 - 23/05/2025 	**Artificial Intelligence and Machine Learning in Life Sciences**, Aussois, Savoie (73), France
 
   Learners will be guided across the various steps in Machine Learning, from the foundational concepts, through the deep learning and generative AI techniques, closely complemented by insights into the existing reporting (DOME Recommendations) and regulatory frameworks (EU AI Act). This week-long training will bring together experts from four ELIXIR Nodes and deliver a hands-on, high-intensity course available for members from all ELIXIR Nodes. For more details visit [here](https://moodle.france-bioinformatique.fr/course/view.php?id=34).
 
