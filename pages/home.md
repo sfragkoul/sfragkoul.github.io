@@ -15,7 +15,7 @@ My research interests include:
 - **machine learning**
 - **synthetic data**
 - **variant calling**
-- **surrogate modelling**
+- **modelling**
 
 
 
