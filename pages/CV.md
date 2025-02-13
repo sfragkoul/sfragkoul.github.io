@@ -26,7 +26,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
+- 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) of [INAB](https://inab.certh.gr/)|[CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
    Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR ML FG](https://elixir-europe.org/focus-groups/machine-learning), supervision of student internships, Master theses and teaching. Also active involvement in the **writing process** of the following **accepted EU proposals**:
   
