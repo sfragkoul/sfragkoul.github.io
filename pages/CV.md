@@ -28,14 +28,12 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
-   Duties: 
-   1. Bioinformatics software development, ML applications
-   2.  Participation in the [ELIXIR Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning) 
-   3.  Student Internships and Master Theses Supervision
-   4.  Teaching
-   5. Active involvement in the writing process of the following **accepted EU proposals**:
-         - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
-         - [*AHEAD*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
+   Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR ML FG](https://elixir-europe.org/focus-groups/machine-learning), supervision of student internships and Master theses and teaching.
+
+  Also active involvement in the **writing process** of the following **accepted EU proposals**:
+  
+  - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
+  - [*AHEAD*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
            
 **Participation in Funded Projects**
 
@@ -68,7 +66,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-- **Ad hoc reviewer** in
+#### Ad hoc reviewer 
   - Elsevier, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal (2)
   - Elsevier, [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) journal (2)
   - Oxford University Press & ISCB, [*Bioinformatics Advances*](https://academic.oup.com/bioinformaticsadvances) journal (2)
@@ -77,13 +75,15 @@ background: /assets/img/groupLogo/CV.jpg
   - Elsevier, [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal (1)
 
 
-- Participation in the **organising committee** of
+#### Organising Committees
   - [*EOSC-EVERSE Kick-off meeting*](https://everse.software/), Thessaloniki, Greece, 11-15/03/2024.
   - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece, 10-12/10/2023.
 
 
-### TEACHING
+### TEACHING EXPERIENCE
 <p style="margin-bottom:15px"></p>
+
+#### Workshops and classes 
 
 - 19/05/2025 - 23/05/2025 	**Artificial Intelligence and Machine Learning in Life Sciences**, Aussois, Savoie (73), France
 
@@ -103,6 +103,11 @@ background: /assets/img/groupLogo/CV.jpg
 
    A crash course, taught voluntarily, which consisted of six teaching hours, for 4th year students, at the Physics Department, who attended *“Numerical Analysis”* taught by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el). [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
+#### Student Supervision  
+
+- Co-supervision of a **Master Thesis** titled [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), for the PostGraduate program ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis) of Democritus University of Thrace.
+
+- Supervision of 2 student **Internships**.
 
 ### MEMBERSHIPS
 <p style="margin-bottom:15px"></p>
