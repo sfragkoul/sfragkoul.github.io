@@ -28,9 +28,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), Institute of Applied Biosciences at The Centre for Research and Technology-Hellas, Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
 
-   Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR ML FG](https://elixir-europe.org/focus-groups/machine-learning), supervision of student internships and Master theses and teaching.
-
-  Also active involvement in the **writing process** of the following **accepted EU proposals**:
+   Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR ML FG](https://elixir-europe.org/focus-groups/machine-learning), supervision of student internships, Master theses and teaching. Also active involvement in the **writing process** of the following **accepted EU proposals**:
   
   - [*SYNTHIA*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101172872/program/43108390/details), for the HORIZON Innovative Health Initiative JU Call 5, [HORIZON-JU-IHI-2023-05-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-ju-ihi-2023-05-04)
   - [*AHEAD*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details), for the Marie Skłodowska-Curie Action Staff Exchanges 2023 call, [HORIZON-MSCA-2023-SE-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-se-01-01)
