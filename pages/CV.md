@@ -43,6 +43,8 @@ background: /assets/img/groupLogo/CV.jpg
 |  11/2021 - 08/2023 &nbsp; &nbsp; &nbsp; |  [**Gallantries**](https://gallantries.github.io/) |  Design, development and creation of <br/> Bioinformatics educational content |  [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
 
 
+### SCIENTIFIC EXPERIENCE
+
 - 07/2022-present, 	**PhD Student**, National and Kapodistrian University of Athens, Athens, Greece
 
    Duties: Design and development of bioinformatics algorithms focused on the deconvolution and disambiguation of low-frequency somatic variants in human DNA through Next-Generation Sequencing (NGS) data. Additionally, employed synthetic data generation techniques and mathematical modeling to simulate and analyze biological processes, to achieve valuable insights of the behavior of biological systems. 
