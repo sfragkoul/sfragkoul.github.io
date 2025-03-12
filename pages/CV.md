@@ -23,7 +23,7 @@ background: /assets/img/groupLogo/CV.jpg
   Supervision by [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
 
 
-### EMPLOYMENT & SCIENTIFIC EXPERIENCE
+### EMPLOYMENT
 <p style="margin-bottom:15px"></p>
 
 - 11/2021-present,  **Research Associate** in the [Bioinformatics Lab](https://biodataanalysisgroup.github.io/) of [INAB](https://inab.certh.gr/) at [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece, supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)
