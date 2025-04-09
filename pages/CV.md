@@ -64,12 +64,10 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 #### Ad hoc reviewer 
-  - Elsevier, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications) journal (2)
-  - Elsevier, [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing) journal (2)
-  - Oxford University Press & ISCB, [*Bioinformatics Advances*](https://academic.oup.com/bioinformaticsadvances) journal (2)
-  - IEEE, [*Data Descriptions*](https://www.ieee-data.org/) journal (2)
-  - Elsevier, [*Swarm and Evolutionary Computation*](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope) journal (1) 
-  - Elsevier, [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) journal (1)
+  - Elsevier: [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications), [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing), [*Swarm and Evolutionary Computation*](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope), [*Computer Methods and Programs in Biomedicine*](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
+  - Oxford University Press & ISCB: [*Bioinformatics Advances*](https://academic.oup.com/bioinformaticsadvances)
+  - IEEE: [*Data Descriptions*](https://www.ieee-data.org/)
+ 
 
 
 #### Organising Committees
