@@ -10,7 +10,11 @@ Oh hello there, my name is Stella, nice to meet you! I enjoy exploring new thing
 My academic journey so far: **Physics** B.Sc.🪐 > **Digital Media and Computational Intelligence** M.Sc.👩‍💻 > **Bioinformatics** Ph.D.🧬
 
 
-My research interests include: **machine learning**, **synthetic data**, **variant calling**, **modelling**
+My research interests include: 
+- **machine learning**
+- **synthetic data**
+- **variant calling**
+- **modelling**
 
 
 
