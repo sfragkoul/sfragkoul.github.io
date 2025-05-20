@@ -6,18 +6,11 @@ permalink: /
 ---
 
 Oh hello there, my name is Stella, nice to meet you! I enjoy exploring new things, taking long walks in nature and preparing flavoursome meals! I am also a D&D adventurer! 🎲🐉🏰🧙🏻‍♂️
-<br>
 
-My academic journey so far:
+My academic journey so far: **Physics** B.Sc.🪐 > **Digital Media and Computational Intelligence** M.Sc.👩‍💻 > **Bioinformatics** Ph.D.🧬
 
-**Physics** B.Sc.🪐 > **Digital Media and Computational Intelligence** M.Sc.👩‍💻 > **Bioinformatics** Ph.D.🧬
 
-<br>
-
-My research interests include:
-
-**machine learning**, **synthetic data**, **variant calling**, **modelling**
-
+My research interests include: **machine learning**, **synthetic data**, **variant calling**, **modelling**
 
 
 
