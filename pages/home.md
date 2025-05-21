@@ -11,16 +11,9 @@ I enjoy exploring new things, taking long walks in nature, and preparing flavour
 
 ---
 
-### My academic path  
-From exploring the universe with **Physics (B.Sc.)** 🪐  
-to diving into **Computational Intelligence (M.Sc.)** 👩‍💻  
-now navigating genomes in **Bioinformatics (Ph.D.)** 🧬
-
----
-
 ### What I work on
 
-I'm currently a PhD candidate in **Bioinformatics**, working on problems at the intersection of biology, data, and computation.
+I'm currently a PhD candidate in **Bioinformatics**, working on problems at the intersection of data and computation.
 
 My research interests include:
 - 🧠 **Machine learning** – especially methods for biological data.
