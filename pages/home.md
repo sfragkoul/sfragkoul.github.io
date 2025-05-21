@@ -7,7 +7,7 @@ permalink: /
 
 Hi, I’m Stella — welcome!  
 I’m a physicist-turned-bioinformatician who loves blending science with creativity.  
-I enjoy exploring new things, taking long walks in nature, and preparing flavoursome meals. I’m also a D&D adventurer!
+I enjoy exploring new things, taking long walks in nature and preparing flavoursome meals. I’m also a D&D adventurer!
 
 ---
 
