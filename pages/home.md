@@ -33,5 +33,5 @@ In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n)
 
 ### 📬 Let’s connect
 
-Want to chat about research, collaboration, or D&D character builds?  
+Want to chat about research, collaboration or D&D character builds?  
 Head over to [my About page](https://sfragkoul.github.io/about/) to find all my social links.
