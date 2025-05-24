@@ -8,7 +8,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- **Ph.D. in Biology**, National and Kapodistrian University of Athens, Athens, Greece (06/2022–present)  
+- **Ph.D. in Biology**, National and Kapodistrian University of Athens (06/2022–present)  
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants”*  
   Supervisor: [Andreas Agathangelidis](https://scholar.google.com/citations?user=IhoRB4AAAAAJ&hl=en)
 
