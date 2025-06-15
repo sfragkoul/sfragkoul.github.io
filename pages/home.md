@@ -16,10 +16,10 @@ I enjoy exploring new things, taking long walks in nature and preparing flavours
 I'm currently a PhD candidate in **Bioinformatics**, working on problems at the intersection of data and computation.
 
 My research interests include:
-- 🧠 **Machine learning** – especially methods for biological data.
-- 🧪 **Synthetic data** – creating artificial datasets to evaluate algorithms.
-- 🧬 **Variant calling** – detecting genetic variants from sequencing data.
-- 📊 **Modeling** – building interpretable and reliable computational models.
+- 🧠 **Machine learning** 
+- 🧪 **Synthetic data**
+- 🧬 **Variant calling**
+- 📊 **Modeling**
 
 ---
 
