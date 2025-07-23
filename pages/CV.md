@@ -44,7 +44,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 ### SCIENTIFIC EXPERIENCE
 
-- **PhD Student**, National and Kapodistrian University of Athens (07/2022–present)  
+- **PhD Student**, National and Kapodistrian University of Athens (06/2022–present)  
   Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
 
 - **Master Student**, Aristotle University of Thessaloniki (09/2020–09/2021)  
