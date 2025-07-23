@@ -45,7 +45,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### SCIENTIFIC EXPERIENCE
 
 - **PhD Student**, National and Kapodistrian University of Athens (07/2022–present)  
-  Designing bioinformatics algorithms to deconvolute low-frequency somatic variants in NGS data. Use of synthetic data generation and mathematical modeling to simulate biological systems and study their behavior.
+  Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
 
 - **Master Student**, Aristotle University of Thessaloniki (09/2020–09/2021)  
   Software development for master thesis with the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el).
