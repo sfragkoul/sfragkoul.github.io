@@ -48,7 +48,7 @@ background: /assets/img/groupLogo/CV.jpg
   Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
 
 - **Master Student**, Aristotle University of Thessaloniki (09/2020–09/2021)  
-  Software development for master thesis with the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el).
+  [Software](https://github.com/sfragkoul/residual-gw-surrogate-modelling) development for master thesis with the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el).
 
 ---
 
