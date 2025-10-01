@@ -5,15 +5,13 @@ background: /assets/img/groupLogo/Fjallsárlón.jpg
 permalink: /
 ---
 
-Hi, I’m Stella — welcome!  
-I’m a physicist-turned-bioinformatician who loves blending science with creativity.  
-I enjoy exploring new things, taking long walks in nature and preparing flavoursome meals. I’m also a D&D adventurer!
+Hi, I’m Stella, welcome to my personal page!  
 
 ---
 
 ### What I work on
 
-I'm currently a PhD candidate in **Bioinformatics**, working on problems at the intersection of data and computation.
+I'm currently a PhD candidate in **Bioinformatics**.
 
 My research interests include:
 - 🧠 **Machine learning** 
@@ -25,13 +23,13 @@ My research interests include:
 
 ### A few snapshots
 
-In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | My curious cat, Milko   
+In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko   
 :-------------------------:|:-------------------------:  
 <img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> | <img src="/assets/img/team/Milko.JPEG" alt="This is a photo of my cat" width="160"/>
 
 ---
 
-### 📬 Let’s connect
+### Let’s connect
 
-Want to chat about research, collaboration or D&D character builds?  
+Want to chat about research, collaboration or videogames?  
 Head over to [my About page](https://sfragkoul.github.io/about/) to find all my social links.
