@@ -19,4 +19,4 @@ permalink: /about/
 
 ---
 
-Thanks for stopping by! If you'd like to connect, feel free to reach out on any of the platforms above — whether it’s for a scientific discussion, collaboration idea, or to share cool glacier pics! ❄️✨
+Thanks for stopping by! If you'd like to connect, feel free to reach out on any of the platforms above — whether it’s for a scientific discussion or a collaboration idea!
