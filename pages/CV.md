@@ -29,7 +29,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Research Associate**, [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), [INAB](https://inab.certh.gr/) at [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece (11/2021–present)  
   Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)  
-  Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR ML FG](https://elixir-europe.org/focus-groups/machine-learning), involvement in student supervision and teaching, EU proposal writing, and participation in European-funded projects.
+  Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing, and participation in European-funded projects.
 
 #### Participation in Funded Projects
 
