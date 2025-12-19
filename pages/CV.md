@@ -33,35 +33,13 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Participation in Funded Projects
 
-| Duration | Project | Description | Funder |
+| Duration | Project | Position Description | Funder |
 |:--------:|:-------:|:-----------:|:------:|
 | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
 | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
 | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
 
-
----
-
-### FELLOWSHIPS AND AWARDS
-<p style="margin-bottom:15px"></p>
-
-- Travel grant from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
-- Invited attendee at [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), funded by [ELIXIR](https://elixir-europe.org/).
-
----
-
-### ACADEMIC SERVICES
-<p style="margin-bottom:15px"></p>
-
-#### Ad hoc Reviewer  
-- Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
-- Oxford University Press & ISCB: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
-- IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
-
-#### Organising Committees  
-- [*EOSC-EVERSE Kick-off Meeting*](https://everse.software/), Thessaloniki, Greece (11–15/03/2024)  
-- *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece (10–12/10/2023)
 
 ---
 
@@ -84,8 +62,30 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Student Supervision  
 
-- Co-supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.  
-- Active involvement in the supervision of 2 student internships.
+- Support in supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.  
+- Support in the supervision of 2 student internships.
+
+---
+
+### FELLOWSHIPS AND AWARDS
+<p style="margin-bottom:15px"></p>
+
+- Travel grant from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
+- Invited attendee at [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), funded by [ELIXIR](https://elixir-europe.org/).
+
+---
+
+### ACADEMIC SERVICES
+<p style="margin-bottom:15px"></p>
+
+#### Ad hoc Reviewer  
+- Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
+- Oxford University Press & ISCB: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
+- IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
+
+#### Organising Committees  
+- [*EOSC-EVERSE Kick-off Meeting*](https://everse.software/), Thessaloniki, Greece (11–15/03/2024)  
+- *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece (10–12/10/2023)
 
 ---
 
