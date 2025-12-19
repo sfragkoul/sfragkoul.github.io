@@ -40,15 +40,6 @@ background: /assets/img/groupLogo/CV.jpg
 | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
 | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
 
----
-
-### SCIENTIFIC EXPERIENCE
-
-- **PhD Student**, National and Kapodistrian University of Athens (06/2022–present)  
-  Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
-
-- **Master Student**, Aristotle University of Thessaloniki (09/2020–09/2021)  
-  [Software](https://github.com/sfragkoul/residual-gw-surrogate-modelling) development for master thesis with the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/) led by [Nikolaos Stergioulas](https://scholar.google.gr/citations?user=AXlRP8EAAAAJ&hl=el).
 
 ---
 
