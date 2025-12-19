@@ -62,7 +62,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Student Supervision  
 
-- Support in supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.  
+- Support in the supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.  
 - Support in the supervision of 2 student internships.
 
 ---
