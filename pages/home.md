@@ -5,13 +5,7 @@ background: /assets/img/groupLogo/Fjallsárlón.jpg
 permalink: /
 ---
 
-Hi, I’m Stella, welcome to my personal page!  
-
----
-
-### What I work on
-
-I'm currently a PhD candidate in **Bioinformatics**.
+Hi, I’m Stella, welcome to my personal page!  I'm currently a PhD candidate in **Bioinformatics**.
 
 My research interests include:
 - 🧠 **Machine learning** 
@@ -19,9 +13,9 @@ My research interests include:
 - 🧬 **Variant calling**
 - 📊 **Modeling**
 
----
 
-### A few snapshots
+
+
 
 In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko   
 :-------------------------:|:-------------------------:  
