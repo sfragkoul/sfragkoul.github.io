@@ -41,7 +41,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 
 - **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
-  Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
+  Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
 
 - **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
   Application of [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling)  for [COST Action CA17137](https://www.cost.eu/actions/CA17137/) in collaboration with the [CIDL research group](https://cidl.csd.auth.gr/) and the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/).
