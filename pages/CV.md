@@ -14,7 +14,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)  
   Grade: 9.20/10 (Excellent)  
-  Thesis: *"Applications of Deep Learning on gravitational waves"* (with the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/))  
+  Thesis: *"Applications of Deep Learning on gravitational waves"*  
   Supervisor: [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
 
 - **B.Sc. in Physics**, Aristotle University of Thessaloniki (10/2010–04/2019)  
@@ -24,21 +24,27 @@ background: /assets/img/groupLogo/CV.jpg
 
 ---
 
-### EMPLOYMENT
+### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
 - **Research Associate**, [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), [INAB](https://inab.certh.gr/) at [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece (11/2021–present)  
-  Supervisor: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)  
+  Group Lead: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)  
   Duties: Bioinformatics software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing, and participation in European-funded projects.
 
-#### Participation in Funded Projects
 
-| Duration | Project | Position Description | Funder |
-|:--------:|:-------:|:-----------:|:------:|
-| 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
-| 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
-| 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
-| 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
+> | Duration | Project | Position Description | Funder |
+> |:--------:|:-------:|:-----------:|:------:|
+> | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
+> | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
+> | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
+> | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
+
+
+- **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
+  Conceived and implemented [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
+
+- **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
+  Application of [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling)  for [COST Action CA17137](https://www.cost.eu/actions/CA17137/) in collaboration with the [CIDL research group](https://cidl.csd.auth.gr/) and the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/).
 
 
 ---
