@@ -52,7 +52,13 @@ background: /assets/img/groupLogo/CV.jpg
 ### TEACHING EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-#### Workshops and Courses
+#### University Courses
+
+- **Introduction to Python**, Aristotle University of Thessaloniki (03/2021)  
+  Six-hour crash course for 4th-year Physics students. [Course Materials](https://github.com/sfragkoul/Python_Intro)
+
+
+#### Workshops
 
 - **Artificial Intelligence and Machine Learning in Life Sciences**, Aussois, France (19–23/05/2025)  
   Instructor in an intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
@@ -63,8 +69,6 @@ background: /assets/img/groupLogo/CV.jpg
 - **WES / WGS Data Analysis**, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
   Taught CNV calling using [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
 
-- **Introduction to Python**, Aristotle University of Thessaloniki (03/2021)  
-  Six-hour crash course for 4th-year Physics students. [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
 #### Student Supervision  
 
