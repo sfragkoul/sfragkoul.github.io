@@ -90,7 +90,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Ad hoc Reviewer  
 - Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
-- Oxford University Press & ISCB: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
+- Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
 - IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
 
 #### Organising Committees  
