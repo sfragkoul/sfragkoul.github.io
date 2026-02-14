@@ -20,9 +20,7 @@ In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n)
 :-------------------------:
 <img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> |
 
----
 
-### Let’s connect
 
 Want to chat about research, collaboration or videogames?  
 Head over to [my About page](https://sfragkoul.github.io/about/) to find all my social links.
