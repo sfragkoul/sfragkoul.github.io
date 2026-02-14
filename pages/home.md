@@ -7,11 +7,7 @@ permalink: /
 
 Hi, I’m Stella, welcome to my personal page!  I'm currently a PhD candidate in **Bioinformatics**.
 
-My research interests include:
--  **Machine learning** 
--  **Synthetic data**
--  **Variant calling**
--  **Modeling**
+My research interests include: **Machine learning**, **Synthetic data**, **Variant calling**, **Modeling** and more
 
 
 
