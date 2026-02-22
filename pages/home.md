@@ -11,7 +11,7 @@ My research interests include:
 -  **Machine learning** 
 -  **Synthetic data**
 -  **Variant calling**
--  **Modeling**e
+-  **Modeling**
 
 In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko   
 :-------------------------:|:-------------------------:  
