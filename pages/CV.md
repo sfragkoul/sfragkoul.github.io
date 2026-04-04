@@ -94,7 +94,7 @@ background: /assets/img/groupLogo/CV.jpg
 - IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
 
 #### Organising Committees  
-- [*EOSC-EVERSE Kick-off Meeting*](https://everse.software/), Thessaloniki, Greece (11–15/03/2024)  
+- [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Thessaloniki, Greece (11–15/03/2024)  
 - *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Thessaloniki, Greece (10–12/10/2023)
 
 ---
