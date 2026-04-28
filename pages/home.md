@@ -13,6 +13,6 @@ My research interests include:
 -  **Variant calling**
 -  **Modeling**
 
-In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko   
+In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko&Mo   
 :-------------------------:|:-------------------------:  
-<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> | <img src="/assets/img/team/Milko.JPEG" alt="This is a photo of my cat" width="160"/>
+<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> | <img src="/assets/img/team/milko+mo.jpg" alt="This is a photo of my cats sleeping in the sun!" width="160"/>
