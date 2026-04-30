@@ -54,19 +54,19 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### University Courses
 
-- **Introduction to Python**, Aristotle University of Thessaloniki (03/2021)  
-  Six-hour crash course for 4th-year Physics students. [Course Materials](https://github.com/sfragkoul/Python_Intro)
+- Volunteer Instructor, **Introduction to Python**, Aristotle University of Thessaloniki (03/2021)  
+  A six-hour crash course for 4th-year Physics students. [Course Materials](https://github.com/sfragkoul/Python_Intro)
 
 
 #### Workshops
 
-- **Artificial Intelligence and Machine Learning in Life Sciences**, Aussois, France (19–23/05/2025)  
-  Instructor in an intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
+- Instructor, **Artificial Intelligence and Machine Learning in Life Sciences**, Aussois, France (19–23/05/2025)  
+  An intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
 
-- **Exploratory analysis of biological data: Data Carpentry**, EMBL Heidelberg & Virtual (22–26/01/2024)  
-  Helper in a hands-on workshop teaching data analysis fundamentals. [EMBL Course](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
+- Helper, **Exploratory analysis of biological data: Data Carpentry**, EMBL Heidelberg & Virtual (22–26/01/2024)  
+  A hands-on workshop teaching data analysis fundamentals. [EMBL Course](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
 
-- **WES / WGS Data Analysis**, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
+- Instructor, **WES / WGS Data Analysis**, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
   Taught CNV calling using [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
 
 
