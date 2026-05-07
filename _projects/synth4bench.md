@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Synth4Bench
 
 image: /assets/img/projects/synth4bench.png

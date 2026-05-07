@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="container mt-5">
+
+  <h1>{{ page.title }}</h1>
+
+  {% if page.image %}
+  <img
+    src="{{ page.image | relative_url }}"
+    alt="{{ page.title }}"
+    class="img-fluid rounded mb-4">
+  {% endif %}
+
+  {% if page.tags %}
+  <div class="project-tags mb-4">
+    {% for tag in page.tags %}
+      <span>{{ tag }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {{ content }}
+
+</div>
