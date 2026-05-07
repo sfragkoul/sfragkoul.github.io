@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Synth4Bench
+title: Synthetic Data for Variant Calling Benchmarking
 
 image: /assets/img/projects/synth4bench.png
 
