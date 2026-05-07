@@ -28,7 +28,7 @@ The code is available on [GitHub](https://github.com/sfragkoul/synth4bench) and 
 
 ## Related publication
 
-Manuscript is under review but preprint is available on [bioRxiv](https://doi.org/10.1101/2024.03.07.582313)
+Manuscript is under review but preprint is available on [bioRxiv](https://doi.org/10.1101/2024.03.07.582313).
 
 ## Funding
 
