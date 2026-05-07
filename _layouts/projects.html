@@ -1,6 +1,13 @@
-{% for project in site.projects %}
+---
+layout: default
+description: Template for projects page
+---
 
-<a class="project-card-link" href="{{ project.url | relative_url }}">
+{{ content }}
+
+<div class="project-grid">
+
+{% for project in site.projects %}
 
 <div class="project-card">
 
@@ -10,7 +17,11 @@
 
   <div class="project-content">
 
-    <h3>{{ project.title }}</h3>
+    <h3>
+      <a href="{{ project.url | relative_url }}">
+        {{ project.title }}
+      </a>
+    </h3>
 
     {% if project.tags %}
     <div class="project-tags">
@@ -29,29 +40,14 @@
     <p>{{ project.role }}</p>
     {% endif %}
 
-    {% if project.funding %}
-    <h5>Funding</h5>
-    <p>{{ project.funding }}</p>
-    {% endif %}
-
-    {% if project.publications %}
-    <h5>Related publications</h5>
-
-    <ul>
-      {% for pub in project.publications %}
-      <li>
-        <a href="{{ pub.link }}">
-          {{ pub.title }}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-
-    {% endif %}
+    <a class="project-read-more" href="{{ project.url | relative_url }}">
+      Read more →
+    </a>
 
   </div>
+
 </div>
 
-</a>
-
 {% endfor %}
+
+</div>
