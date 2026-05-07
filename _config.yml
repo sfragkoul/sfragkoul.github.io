@@ -42,6 +42,13 @@ exclude:
 
 exclude: [vendor]
 
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+
 # Original file: https://github.com/citation-style-language/styles-distribution
 # Information: https://www.mghassany.com/blog/From-Wordpress-to-Jekyll/
 scholar:

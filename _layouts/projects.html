@@ -1,0 +1,68 @@
+---
+layout: default
+description: Template for projects page
+---
+
+{{ content }}
+
+<div class="project-grid">
+
+{% for project in site.projects %}
+
+<div class="project-card">
+
+  {% if project.image %}
+  <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+  {% endif %}
+
+  <div class="project-content">
+
+    <h3>
+      <a href="{{ project.url | relative_url }}">
+        {{ project.title }}
+      </a>
+    </h3>
+
+    {% if project.tags %}
+    <div class="project-tags">
+      {% for tag in project.tags %}
+        <span>{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if project.description %}
+    <p>{{ project.description }}</p>
+    {% endif %}
+
+    {% if project.role %}
+    <h5>My contribution</h5>
+    <p>{{ project.role }}</p>
+    {% endif %}
+
+    {% if project.funding %}
+    <h5>Funding</h5>
+    <p>{{ project.funding }}</p>
+    {% endif %}
+
+    {% if project.publications %}
+    <h5>Related publications</h5>
+
+    <ul>
+      {% for pub in project.publications %}
+      <li>
+        <a href="{{ pub.link }}">
+          {{ pub.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% endif %}
+
+  </div>
+</div>
+
+{% endfor %}
+
+</div>
