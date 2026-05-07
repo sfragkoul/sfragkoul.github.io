@@ -32,4 +32,4 @@ Manuscript is under review but preprint is available on [bioRxiv](https://doi.or
 
 ## Funding
 
-This work is related to the [**SYNTHIA**](https://www.ihi-synthia.eu/) project and was developed as part of my PhD research.
+This work has recieved funding from [**SYNTHIA**](https://www.ihi-synthia.eu/) project and was developed as part of my PhD research.
