@@ -2,15 +2,14 @@
 layout: default
 ---
 
-<div class="container mt-5">
+<div class="container project-page mt-5 mb-5">
+
+  <a href="{{ '/projects/' | relative_url }}" class="project-back-link">← Back to projects</a>
 
   <h1>{{ page.title }}</h1>
 
-  {% if page.image %}
-  <img
-    src="{{ page.image | relative_url }}"
-    alt="{{ page.title }}"
-    class="img-fluid rounded mb-4">
+  {% if page.description %}
+  <p class="project-lead">{{ page.description }}</p>
   {% endif %}
 
   {% if page.tags %}
@@ -20,6 +19,34 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
+
+  {% if page.image %}
+  <img
+    src="{{ page.image | relative_url }}"
+    alt="{{ page.title }}"
+    class="project-page-image">
+  {% endif %}
+
+  {% if page.role %}
+  <h2>My contribution</h2>
+  <p>{{ page.role }}</p>
+  {% endif %}
+
+  {% if page.funding %}
+  <h2>Funding</h2>
+  <p>{{ page.funding }}</p>
+  {% endif %}
+
+  {% if page.publications %}
+  <h2>Related publications</h2>
+  <ul>
+    {% for pub in page.publications %}
+    <li><a href="{{ pub.link }}">{{ pub.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <hr>
 
   {{ content }}
 

@@ -1,13 +1,6 @@
----
-layout: default
-description: Template for projects page
----
-
-{{ content }}
-
-<div class="project-grid">
-
 {% for project in site.projects %}
+
+<a class="project-card-link" href="{{ project.url | relative_url }}">
 
 <div class="project-card">
 
@@ -17,11 +10,7 @@ description: Template for projects page
 
   <div class="project-content">
 
-    <h3>
-      <a href="{{ project.url | relative_url }}">
-        {{ project.title }}
-      </a>
-    </h3>
+    <h3>{{ project.title }}</h3>
 
     {% if project.tags %}
     <div class="project-tags">
@@ -63,6 +52,6 @@ description: Template for projects page
   </div>
 </div>
 
-{% endfor %}
+</a>
 
-</div>
+{% endfor %}

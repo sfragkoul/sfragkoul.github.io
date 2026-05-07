@@ -45,6 +45,16 @@ body > main {
   margin-top: 0;
 }
 
+.project-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-card-link:hover {
+  text-decoration: none;
+}
+
+
 /* Project title links */
 
 .project-content h3 a {
@@ -71,4 +81,47 @@ body > main {
   margin-right: 0.35rem;
   margin-bottom: 0.35rem;
   font-size: 0.75rem;
+}
+
+/* =========================
+   Individual project pages
+========================= */
+
+.project-page {
+  max-width: 850px;
+}
+
+.project-back-link {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  color: #c800ff;
+}
+
+.project-back-link:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.project-lead {
+  font-size: 1.15rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.project-page-image {
+  display: block;
+  width: 100%;
+  max-width: 760px;
+  max-height: 380px;
+  object-fit: contain;
+  margin: 2rem auto;
+}
+
+.project-page h1 {
+  margin-bottom: 1rem;
+}
+
+.project-page h2 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
 }

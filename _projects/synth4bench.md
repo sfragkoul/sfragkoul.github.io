@@ -10,22 +10,15 @@ tags:
   - Benchmarking
 
 description: >
-  Framework for generating synthetic genomics datasets
-  for benchmarking tumor-only somatic variant callers.
-
-role: >
-  Designed and implemented the synthetic data generation
-  workflows and benchmarking framework.
-
-
+  Framework for generating synthetic genomics datasets for benchmarking tumor-only somatic variant callers.
 
 ---
 
-# Synth4Bench
+Full project page.
 
-image: /assets/img/projects/synth4bench.png
 
-FULL project page.
+role: >
+  Designed and implemented the synthetic data generation workflows and benchmarking framework.
 
 funding: SYNTHIA
 
