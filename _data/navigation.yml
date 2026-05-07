@@ -2,6 +2,8 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
+- text: My Projects
+  href: /projects/
 - text: CV
   href: /CV/
 - text: Publications
