@@ -1,0 +1,43 @@
+---
+layout: project
+title: LLM Evaluation for Reproducible AI Reporting
+
+image: /assets/img/projects/dome_copilot.png
+
+tags:
+  - LLMs
+  - AI Evaluation
+  - Reproducibility
+  - Benchmarking
+
+description: >
+  Benchmarking LLM-generated AI method annotations against expert human-curated annotations to evaluate reproducibility and reporting quality in life science AI publications.
+
+---
+
+## Overview
+
+DOME Copilot is a large language model (LLM)-based system designed to automatically generate structured AI method reports from scientific manuscripts following the DOME recommendations for machine learning reporting in biology.
+
+My work focused on the evaluation and benchmarking of LLM-generated outputs against expert human annotations in order to assess the quality, consistency and reliability of automatically extracted AI methodology metadata.
+
+The project involved:
+- benchmarking generated annotations against manually curated DOME annotations
+- evaluating semantic similarity between LLM outputs and human expert annotations
+- analyzing reporting quality across AI method disclosure categories
+- assessing scalability of automated literature annotation pipelines
+- studying hallucination avoidance and information extraction performance
+
+
+## Code
+
+DOME Copilot Data Analysis can be found [here](https://github.com/gavinf97/DOME-Copilot-Data-Analysis).
+
+
+## Related Publication
+
+Preprint available on [bioRxiv](https://doi.org/10.64898/2026.04.16.718888).
+
+## Funding
+
+This work was supported by ELIXIR, AI4EOSC, EVERSE and ELIXIR STEERS initiatives supporting trustworthy and reproducible artificial intelligence in life sciences.
