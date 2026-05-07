@@ -45,17 +45,30 @@ body > main {
   margin-top: 0;
 }
 
+/* Project title links */
+
+.project-content h3 a {
+  color: #000;
+  text-decoration: none;
+}
+
+.project-content h3 a:hover {
+  color: #c800ff;
+  text-decoration: none;
+}
+
+
 .project-tags {
   margin-bottom: 1rem;
 }
 
 .project-tags span {
   display: inline-block;
-  border: 1px solid #f4a261;
-  color: #f4a261;
-  border-radius: 20px;
-  padding: 0.2rem 0.6rem;
-  margin-right: 0.4rem;
-  margin-bottom: 0.4rem;
+  border: 1px solid #c800ff;
+  color: #c800ff;
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  margin-right: 0.35rem;
+  margin-bottom: 0.35rem;
   font-size: 0.75rem;
 }
