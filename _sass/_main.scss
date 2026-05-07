@@ -12,7 +12,8 @@ body > main {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 320px));
+  justify-content: center;
   gap: 2rem;
   margin-top: 2rem;
 }
@@ -47,7 +48,11 @@ body > main {
   line-height: 1.4;
 }
 
-
+.project-content p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #555;
+}
 
 /* Project title links */
 
