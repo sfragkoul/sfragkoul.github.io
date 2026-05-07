@@ -28,8 +28,7 @@ The code is available on [GitHub](https://github.com/sfragkoul/synth4bench) and 
 
 ## Related publication
 
-- **Synth4Bench: Generating Synthetic Data for Benchmarking Tumor-Only Somatic Variant Calling Algorithms**  
-  Manuscript in preparation / under review but preprint is available in [bioRxiv](https://doi.org/10.1101/2024.03.07.582313)
+Manuscript in preparation / under review but preprint is available in [bioRxiv](https://doi.org/10.1101/2024.03.07.582313)
 
 ## Funding
 
