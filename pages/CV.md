@@ -80,8 +80,9 @@ background: /assets/img/groupLogo/CV.jpg
 ### FELLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
-- Travel grant from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
-- Invited attendee at [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), funded by [ELIXIR](https://elixir-europe.org/).
+- **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to attend [ECCB2026](https://eccb2026.org/), Geneva, Switzerland (31/08–04/09/2026).
+- **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
+- **Participation grant** to attend [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
 
 ---
 
