@@ -1,6 +1,6 @@
 ---
 layout: home
-description: A Physicist playing with Machine Learning & Bioinformatics
+description: A Physicist playing with AI & Bioinformatics
 background: /assets/img/groupLogo/Fjallsárlón.jpg
 permalink: /
 ---
