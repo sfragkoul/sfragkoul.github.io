@@ -60,7 +60,10 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Workshops
 
-- **Instructor**, *Artificial Intelligence and Machine Learning in Life Sciences*,  Centre de Vacances et Colloques Paul Langevin (CNRS), France (19–23/05/2025)  
+- **Instructor**, *Artificial Intelligence and Machine Learning in Life Science: from foundations to applications*,  Centre for Genomic Regulation (CRG), Barcelona, Spain (14–18/09/2026)  
+  A hands-on course covering machine learning, deep learning, foundation models, generative AI, reproducibility, DOME recommendations and the EU AI Act for life-science researchers.
+  
+- **Instructor**, *Artificial Intelligence and Machine Learning in Life Sciences*,  Centre de Vacances et Colloques Paul Langevin (CNRS), Aussois, France (19–23/05/2025)  
   An intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
 
 - **Helper**, *Exploratory analysis of biological data: Data Carpentry*, EMBL Heidelberg & Virtual (22–26/01/2024)  
