@@ -92,12 +92,15 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
+#### Co-lead, Generative AI (GenAI) Task (05/2026–present)
+Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
+
 #### Ad hoc Reviewer  
 - Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
 - Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
 - IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
 
-#### Organising Committees  
+#### Conference & Event Organization  
 - [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)  
 - [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)  
 - [*17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*](https://sites.google.com/site/hscbbhome), Holiday Inn Hotel, Thessaloniki, Greece (10–12/10/2023)
