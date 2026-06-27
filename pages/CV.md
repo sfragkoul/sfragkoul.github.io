@@ -92,7 +92,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-#### Co-lead, Generative AI (GenAI) Task (05/2026–present)
+##### Co-lead, Generative AI (GenAI) Task (05/2026–present)
 Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
 
 #### Ad hoc Reviewer  
