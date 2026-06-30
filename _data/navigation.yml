@@ -10,5 +10,7 @@
   href: /publications/
 - text: About
   href: /about/
-- text: Photography
-  href: /Photography/
+- text: Arts & Crafts
+  menu:
+  - text: Photography
+    href: /Photography/
