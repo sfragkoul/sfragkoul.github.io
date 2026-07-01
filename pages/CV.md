@@ -75,7 +75,8 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Student Supervision  
 
-- Support in the supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.  
+- Support in the supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.
+
 - Support in the supervision of 2 student internships.
 
 ---
@@ -84,7 +85,9 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at [ECCB2026](https://eccb2026.org/), Geneva, Switzerland (31/08–04/09/2026).
+  
 - **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
+  
 - **Participation grant** to attend [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
 
 ---
@@ -94,12 +97,16 @@ background: /assets/img/groupLogo/CV.jpg
 
 #### Ad hoc Reviewer  
 - Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
+
 - Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
+
 - IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
 
 #### Conference & Event Organization  
-- [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)  
-- [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)  
+- [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)
+  
+- [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)
+  
 - [*17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*](https://sites.google.com/site/hscbbhome), Holiday Inn Hotel, Thessaloniki, Greece (10–12/10/2023)
 
 #### Research Community Contributions 
@@ -107,6 +114,7 @@ background: /assets/img/groupLogo/CV.jpg
   Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
   
 - **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in [BioHackathon Europe 2026](https://biohackathon-europe.org/).
+
 - **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in [BioHackathon Europe 2023](https://biohackathon-europe.org/).
 
 ---
