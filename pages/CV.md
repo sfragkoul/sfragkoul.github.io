@@ -62,13 +62,10 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Instructor**, *Artificial Intelligence and Machine Learning in Life Science: from foundations to applications*,  Centre for Genomic Regulation (CRG), Barcelona, Spain (14–18/09/2026)  
   A hands-on course covering machine learning, deep learning, foundation models, generative AI, reproducibility, DOME recommendations and the EU AI Act for life-science researchers. [Details](https://courses.crg.eu/events/artificial-intelligence-and-machine-learning-life-science-foundations-applications-2026)
-  
 - **Instructor**, *Artificial Intelligence and Machine Learning in Life Sciences*,  Centre de Vacances et Colloques Paul Langevin (CNRS), Aussois, France (19–23/05/2025)  
   An intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
-
 - **Helper**, *Exploratory analysis of biological data: Data Carpentry*, EMBL Heidelberg & Virtual (22–26/01/2024)  
   A hands-on workshop teaching data analysis fundamentals. [EMBL Course](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
-
 - **Instructor**, *WES / WGS Data Analysis*, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
   Taught CNV calling using [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
 
@@ -76,7 +73,6 @@ background: /assets/img/groupLogo/CV.jpg
 #### Student Supervision  
 
 - Support in the supervision of M.Sc. thesis: [*Generative methods in bioinformatics: the use case of synthetic genomics data*](https://repo.lib.duth.gr/jspui/handle/123456789/19432), ["Applied Bioinformatics & Data Analysis"](https://duth.gr/en/Education/PostGraduate-Studies/%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%cf%83%ce%bc%ce%b5%ce%bd%ce%b7-%ce%b2%ce%b9%ce%bf%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%b1%ce%bd%ce%b1%ce%bb%cf%85%cf%83%ce%b7-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%b5%ce%bd%cf%89%ce%bd187-applied-bioinformatics-data-analysis), Democritus University of Thrace.
-
 - Support in the supervision of 2 student internships.
 
 ---
@@ -85,9 +81,7 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at [ECCB2026](https://eccb2026.org/), Geneva, Switzerland (31/08–04/09/2026).
-  
 - **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
-  
 - **Participation grant** to attend [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
 
 ---
@@ -108,9 +102,7 @@ background: /assets/img/groupLogo/CV.jpg
 #### Research Community Contributions 
 - **Co-lead** in Generative AI (GenAI) Task Force (05/2026–present)  
   Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
-  
 - **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in [BioHackathon Europe 2026](https://biohackathon-europe.org/).
-
 - **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in [BioHackathon Europe 2023](https://biohackathon-europe.org/).
 
 ---
