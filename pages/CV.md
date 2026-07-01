@@ -92,9 +92,6 @@ background: /assets/img/groupLogo/CV.jpg
 ### ACADEMIC SERVICES
 <p style="margin-bottom:15px"></p>
 
-##### Co-lead, Generative AI (GenAI) Task (05/2026–present)
-Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
-
 #### Ad hoc Reviewer  
 - Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
 - Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
@@ -104,6 +101,13 @@ Contribute to the coordination and development of the Generative AI Task within 
 - [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)  
 - [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)  
 - [*17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*](https://sites.google.com/site/hscbbhome), Holiday Inn Hotel, Thessaloniki, Greece (10–12/10/2023)
+
+#### Research Community Contributions 
+- **Co-lead** in Generative AI (GenAI) Task Force (05/2026–present)  
+  Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
+  
+- **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in [BioHackathon Europe 2026](https://biohackathon-europe.org/).
+- **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in [BioHackathon Europe 2023](https://biohackathon-europe.org/).
 
 ---
 
