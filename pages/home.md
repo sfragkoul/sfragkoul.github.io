@@ -9,6 +9,6 @@ Hi, I’m Stella, welcome to my personal page! This is my little corner of the i
 
 From research and collaborations to conferences, travel and occasional side quests, you’ll find a bit of everything here. Have a look around and feel free to reach out if you’d like to connect!
 
-In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier! | Milko&Mo   
-:-------------------------:|:-------------------------:  
-<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> | <img src="/assets/img/team/milko+mo.jpg" alt="This is a photo of my cats sleeping in the sun!" width="160"/>
+In [Fjallsárlón, Iceland](https://en.wikipedia.org/wiki/Fjalls%C3%A1rl%C3%B3n), holding a piece of glacier!    
+
+<img src="/assets/img/team/Glacier.jpg" alt="Photo taken in Fjallsárlón Glacier Lagoon, Iceland" width="470"/> 
