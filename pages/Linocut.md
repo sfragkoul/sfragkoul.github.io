@@ -34,5 +34,11 @@ This three layered work was inspired by a photo that I found on Pinterest but I 
 
 <img src="/assets/img/groupLogo/fox_in_woods.jpg" alt="A process photo of the creation of a multiblock linocut print. The composition includes the initial pencil sketch, the completed print of a red fox walking through a stylized woodland landscape and the three carved linoleum blocks used to print the individual color layers. The blocks separate the background landscape, foreground trees and fox, demonstrating the layered printmaking process from concept to finished artwork." width="600" /> 
 
+### Rosa canina (aka Dog Rose)
+
+This work was inspired by the beautiful botanical linocuts of [Grace Edkins Studio](https://www.etsy.com/shop/GraceEdkinsStudio). It was one of the first pieces I created and was printed on handmade Japanese paper ( gifted to me by a friend). A fun fact is that I chose a magenta ink for the print before I even knew the flower's name, or that pink is its characteristic color.
+
+<img src="/assets/img/groupLogo/linoflower.jpg" alt="A process photo documenting the creation of a floral linocut print. The image includes the original pencil sketch, the completed print in a muted pink ink, and the hand-carved linoleum block used to produce it. The decorative composition features a blooming flower surrounded by an ornate botanical border, highlighting the transformation from concept sketch to carved block and finished handmade print." width="450" /> 
+
 
 
