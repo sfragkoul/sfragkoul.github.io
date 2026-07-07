@@ -28,6 +28,11 @@ This work is inspired by my recent fascination with [Art Nouveau style](https://
 <img src="/assets/img/groupLogo/nouveau_door.jpg" alt="A process photo documenting the creation of an Art Nouveau-inspired reduction linocut print. On the left is a pencil sketch of a stylized door design, in the center is the completed print with a muted green frame, metallic gold accents, and a pastel stained-glass window motif and on the right are the carved linoleum blocks used to print the different layers. Together they illustrate the progression from initial drawing to carving and the final handmade print." width="600" /> 
 
 
+### Fox in the woods
+
+This three layered work was inspired by a photo that I found on Pinterest but I haven't been able to identify the original artist (if you happen to recognize it, I'd be grateful if you let me know). The print was created using **three separate linoleum blocks**, with each layer carved and printed independently from background to foreground.
+
+<img src="/assets/img/groupLogo/fox_in_woods.jpg" alt="A process photo of the creation of a multiblock linocut print. The composition includes the initial pencil sketch, the completed print of a red fox walking through a stylized woodland landscape and the three carved linoleum blocks used to print the individual color layers. The blocks separate the background landscape, foreground trees and fox, demonstrating the layered printmaking process from concept to finished artwork." width="600" /> 
 
 
 
