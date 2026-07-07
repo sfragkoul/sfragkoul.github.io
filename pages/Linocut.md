@@ -38,7 +38,7 @@ This three layered work was inspired by a photo that I found on Pinterest but I 
 
 This work was inspired by the beautiful botanical linocuts of [Grace Edkins Studio](https://www.etsy.com/shop/GraceEdkinsStudio). It was one of the first pieces I created and was printed on handmade Japanese paper ( gifted to me by a friend). A fun fact is that I chose a magenta ink for the print before I even knew the flower's name, or that pink is its characteristic color.
 
-<img src="/assets/img/groupLogo/linoflower.jpg" alt="A process photo documenting the creation of a floral linocut print. The image includes the original pencil sketch, the completed print in a muted pink ink, and the hand-carved linoleum block used to produce it. The decorative composition features a blooming flower surrounded by an ornate botanical border, highlighting the transformation from concept sketch to carved block and finished handmade print." width="450" /> 
+<img src="/assets/img/groupLogo/linoflower.jpg" alt="A process photo documenting the creation of a floral linocut print. The image includes the original pencil sketch, the completed print in a muted pink ink, and the hand-carved linoleum block used to produce it. The decorative composition features a blooming flower surrounded by an ornate botanical border, highlighting the transformation from concept sketch to carved block and finished handmade print." width="430" /> 
 
 ### Gertrude of Nivelles
 
