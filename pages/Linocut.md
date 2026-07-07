@@ -42,7 +42,7 @@ This work was inspired by the beautiful botanical linocuts of [Grace Edkins Stud
 
 ### Gertrude of Nivelles
 
-This is my latest still in progress work inspired by New Zealand artist [Jessica Benhar](https://www.harkenback.com.au/). After a year of carving linoleum, I wanted to challenge myself with something more ambitious. This piece is much more detailed than my previous work and is being sketched on A3 paper, making it my largest linocut so far. As someone who enjoys symmetry a little too much, in some troublesome cases, I sketch one half of the design and mirror it with transfer paper, ensuring that the delicate or geometric elements remain perfectly balanced.
+This is my latest still in progress work inspired by New Zealand artist [Jessica Benhar](https://www.harkenback.com.au/). After a year of carving linoleum, I wanted to challenge myself with something more ambitious. This piece is much more detailed than my previous works and is being sketched on A3 paper, making it my largest linocut so far. As someone who enjoys symmetry a little too much, in some troublesome cases, I sketch one side of the design and mirror it with transfer paper, ensuring that the delicate or geometric elements remain perfectly balanced.
 
 
 <img src="/assets/img/groupLogo/gertrude_nivelles.jpg" alt="A pencil sketch of an in-progress A3 linocut composition inspired by medieval and folk art. The central figure is a crowned woman framed by a large halo, surrounded by stylized birds, flowers, foliage, stars, and three cats. Decorative geometric borders and a Gothic-inspired arch frame the scene, with the symmetrical design carefully planned before carving. The photograph documents the initial drawing stage of the printmaking process." width="600" /> 
