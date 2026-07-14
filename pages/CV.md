@@ -33,7 +33,7 @@ background: /assets/img/groupLogo/CV.jpg
 
   **International Research Visit**
   - **Visiting Researcher**, Faculty of Social Sciences, University of Helsinki, Helsinki, Finland (duration 1 month)  
-  Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the **Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges** programme.  
+  Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  
   Duties: Scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, social sciences, psychology and law to advance responsible AI in healthcare.
 
 My participation in Research projects:
