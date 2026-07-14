@@ -32,7 +32,7 @@ background: /assets/img/groupLogo/CV.jpg
   Duties: Research software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
   **International Research Visit**
-  - **Visiting Researcher**, Faculty of Social Sciences, University of Helsinki, Helsinki, Finland (duration 1 month, August 2026)  
+  - **Visiting Researcher**, Faculty of Social Sciences, University of Helsinki, Helsinki, Finland (duration 1 month)  
   Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the **Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges** programme.  
   Duties: Scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, social sciences, psychology and law to advance responsible AI in healthcare.
 
