@@ -31,7 +31,12 @@ background: /assets/img/groupLogo/CV.jpg
   Group Lead: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)  
   Duties: Research software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
+  **International Research Visit**
+  - **Visiting Researcher**, Faculty of Social Sciences, University of Helsinki, Helsinki, Finland (duration 1 month, August 2026)  
+  Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the **Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges** programme.  
+  Duties: Scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, social sciences, psychology and law to advance responsible AI in healthcare.
 
+My participation in Research projects:
 > | Duration | Project | Position Description | Funder |
 > |:--------:|:-------:|:-----------:|:------:|
 > | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
