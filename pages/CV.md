@@ -14,12 +14,12 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
   Thesis: *"Applications of Deep Learning on gravitational waves"*  
-  Supervisor: [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)
+  Supervisor: [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)  
   Grade: 9.20/10 (90 ECTS)
 
 - **B.Sc. in Physics**, Aristotle University of Thessaloniki (10/2010–04/2019)   
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*  
-  Supervisor: [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)
+  Supervisor: [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)  
   Grade: 6.64/10 (240 ECTS)
 
 ---
