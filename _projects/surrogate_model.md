@@ -1,0 +1,25 @@
+---
+layout: project
+title: Gravitational wave surrogate modeling
+
+image: /assets/img/projects/surrogate.jpg
+
+tags:
+  - Modeling
+  - Deep Learning
+  - Gravitational wave astronomy
+
+description: >
+  A collaboration project between Informatics and Physics departments of Aristotle University of Thessaloniki to improve surrogate modeling of gravitational waveforms.
+
+---
+
+## Overview
+
+This project was...
+
+My contribution focused on exploring deep learning architectures as well as applying various tricks to reduce the learning errors.
+
+## Related Publication
+
+The paper was published in *Elsevier Applied Soft Computing* and is available [here](https://doi.org/10.1016/j.asoc.2023.110746).
