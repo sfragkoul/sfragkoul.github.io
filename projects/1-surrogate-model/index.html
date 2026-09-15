@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+    <title>Gravitational wave surrogate modeling - Styliani-Christina Fragkouli</title>
+  
+
+  <meta name="description" content="A Physicist playing with ML & Bioinformatics">
+  <meta name="author" content="Styliani-Christina Fragkouli">
+
+  <!-- CSS -->
+  <!-- Bootstrap is included in main.css -->
+  <link rel="stylesheet" href="/assets/theme/css/main.css">
+  <link rel="stylesheet" href="/assets/theme/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/theme/css/pygments.css">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+
+  <!-- Feeds -->
+  <link rel="alternate" type="application/rss+xml" title="Styliani-Christina Fragkouli - RSS feed" href="https://sfragkoul.github.io/feed.xml" >
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/assets/img/groupLogo/telescope.png">
+  <link rel="shortcut icon" type="image/png" href="/assets/img/groupLogo/telescope.png">
+  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-65YGDLCWWV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-65YGDLCWWV');
+</script>
+
+</head>
+
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="/">
+      
+        <img src="/assets/img/groupLogo/telescope.png" class="mr-2">
+      
+      Styliani-Christina Fragkouli
+    </a>
+    
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu">
+        Menu <i class="fa fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="navbar-nav ml-auto">
+        
+          
+            <li class="navbar-item">
+              <a class="nav-link" href="/" >Home</a>
+            </li>
+          
+        
+          
+            <li class="navbar-item">
+              <a class="nav-link" href="/projects/" >My Projects</a>
+            </li>
+          
+        
+          
+            <li class="navbar-item">
+              <a class="nav-link" href="/CV/" >CV</a>
+            </li>
+          
+        
+          
+            <li class="navbar-item">
+              <a class="nav-link" href="/publications/" >Publications</a>
+            </li>
+          
+        
+          
+            <li class="navbar-item">
+              <a class="nav-link" href="/about/" >About</a>
+            </li>
+          
+        
+          
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                Arts & Crafts
+              </a>
+              <div class="dropdown-menu">
+              
+                
+                  <a class="dropdown-item" href="/Linocut/" >Linocut</a>
+                
+              
+                
+                  <a class="dropdown-item" href="/Photography/" >Photography</a>
+                
+              
+                
+                  <a class="dropdown-item" href="/Embroidery/" >Embroidery</a>
+                
+              
+                
+                  <a class="dropdown-item" href="/Mosaic/" >Mosaic</a>
+                
+              
+              </div>
+          
+        
+        </ul>
+      </div>
+    
+  </div>
+</nav>
+
+
+    <main>
+
+      
+
+      <div class="container content">
+
+        <div class="row">
+  <div class="col-md-10 col-lg-8 mx-auto">
+
+    <div class="container project-page mt-5 mb-5">
+
+  <a href="/projects/" class="project-back-link">← Back to projects</a>
+
+  <h1>Gravitational wave surrogate modeling</h1>
+
+  
+  <p class="project-lead">Deep Learning methods in surrogate modeling of gravitational waveforms.
+</p>
+  
+
+  
+  <div class="project-tags mb-4">
+    
+      <span>Modeling</span>
+    
+      <span>Deep Learning</span>
+    
+      <span>Gravitational waves</span>
+    
+  </div>
+  
+
+  
+  <img
+    src="/assets/img/projects/surrogate.jpg"
+    alt="Gravitational wave surrogate modeling"
+    class="project-page-image">
+  
+
+  
+
+  
+
+  
+
+  <hr>
+
+  <h2 id="overview">Overview</h2>
+
+<p>Gravitational waves are produced when massive astrophysical objects merge in a violent manner. The usual participants in these events are neutron stars and black holes, both stellar corpses, remnants of stars that are long gone. When these objects coalesce, the space around them vibrates and ripples are produced (imagine the surface of a lake after the landing of a leaf) and because they interact with matter faintly, they can travel very very (very!) long distances. Gravitational waves were predicted by Albert Einstein back in 1916 but were first observed almost 100 years later in <a href="https://www.ligo.caltech.edu/news/ligo20160211">September 14, 2015</a> by the twin Laser Interferometer Gravitational-wave Observatory (LIGO) detectors!</p>
+
+<p>One field that flourished was that of gravitational wave modeling, where one must solve the Einstein equations either via analytical or numerical solutions… But, because these simulations are computational heavy, scientists turned to the approximation of these simulated gravitational waveforms via <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.031006">surrogate models</a> which were much lighter but quite accurate! However, as with most methodologies, surrogate modeling had its own issues and limitations. So people working in this field, tunred to a -at that time- rapidly spreading tool: artificial neural networks, to replace one of the steps of the generation of surrogate waveforms.</p>
+
+<p>In the project, in which I participated as a student, we were looking for patterns in the data and computational methodologies to improve these models.</p>
+
+<p>A collaboration project between the <a href="https://cidl.csd.auth.gr/">CIDL research group</a> and the <a href="https://niksterg.github.io/gw-group/">Gravitational Waves Group, AUTh</a> from the departments of Informatics and Physics of Aristotle University of Thessaloniki.</p>
+
+<p>My contribution focused on exploring deep learning architectures as well as applying various tricks to reduce the learning errors.</p>
+
+<h2 id="related-publication">Related Publication</h2>
+
+<p>Results from this project were published in Elsevier’s <a href="https://doi.org/10.1016/j.asoc.2023.110746"><em>Applied Soft Computing</em></a> and <a href="https://doi.org/10.1016/j.neucom.2022.03.052"><em>Neurocomputing</em></a>.</p>
+
+
+</div>
+
+  </div>
+</div>
+
+
+      </div>
+
+    </main>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg">
+        <ul class="list-inline">
+          
+            <li class="list-inline-item">
+              <a href="mailto:scfragkouli@gmail.com">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          
+
+          
+
+          
+            <li class="list-inline-item">
+              <a href="https://github.com/sfragkoul">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          
+
+          
+            <li class="list-inline-item">
+              <a href="https://www.linkedin.com/in/sfragkoul">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          
+
+          
+            <li class="list-inline-item">
+              <a href="https://scholar.google.com/citations?user=3TM3Aj0AAAAJ">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+              
+        </ul>
+      </div>
+      
+      
+    </div>
+
+    <div class="small mt-2">
+      
+        <p>© Styliani-Christina Fragkouli</p>
+      
+      
+        <p>Content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0 License</a>.</p>
+
+      
+    </div>
+  </div>
+</footer>
+
+<script src="/assets/theme/js/jquery.min.js"></script>
+<script src="/assets/theme/js/popper.min.js"></script>
+<script src="/assets/theme/js/bootstrap.min.js"></script>
+<script src="/assets/theme/js/anchor.min.js"></script>
+
+<script>
+  // Show anchors when hovering over headings, using anchor.js
+  (function () {
+    const headings = ".content h2[id], .content h3[id], .content h4[id], .content h5[id], .content h6[id]";
+    anchors.options = { placement: "right" };
+    anchors.add(headings);
+  })();
+</script>
+
+
+
+  </body>
+</html>
