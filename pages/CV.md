@@ -10,16 +10,16 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (06/2022–present)  
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants”*  
-  Supervisor: [Andreas Agathangelidis](https://scholar.google.com/citations?user=IhoRB4AAAAAJ&hl=en)
+  Supervisor: Andreas Agathangelidis
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
   Thesis: *"Applications of Deep Learning on gravitational waves"*  
-  Supervisor: [Anastasios Tefas](https://scholar.google.com/citations?user=4stOS3YAAAAJ&hl=en)  
+  Supervisor: Anastasios Tefas  
   Grade: 9.20/10 (90 ECTS)
 
 - **B.Sc. in Physics**, Aristotle University of Thessaloniki (10/2010–04/2019)   
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*  
-  Supervisor: [Charalampos Moustakidis](https://scholar.google.com/citations?user=7qdKh78AAAAJ&hl=en)  
+  Supervisor: Charalampos Moustakidis  
   Grade: 6.64/10 (240 ECTS)
 
 ---
@@ -28,7 +28,7 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Research Associate**, [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), [INAB](https://inab.certh.gr/) at [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece (11/2021–present)  
-  Group Lead: [Fotis Psomopoulos](https://scholar.google.gr/citations?user=Fp0LAqsAAAAJ&hl=en)  
+  Group Lead: Fotis Psomopoulos  
   Duties: Research software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
   **International Research Visit**
