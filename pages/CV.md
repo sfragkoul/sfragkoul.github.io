@@ -96,8 +96,9 @@ My participation in Research projects:
 
 #### Ad hoc Reviewer  
 - Elsevier: *[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*, *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)*, *[Swarm and Evolutionary Computation](https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/aims-and-scope)*, *[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)*
-- Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
 - IEEE: *[Data Descriptions](https://www.ieee-data.org/)*
+- Oxford University Press: *[Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)*
+- Springer Nature: *[BMC Bioinformatics](https://link.springer.com/journal/12859)*
 
 #### Conference & Event Organization  
 - [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)
