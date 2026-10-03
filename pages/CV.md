@@ -120,8 +120,6 @@ My participation in research projects:
 
 ---
 
----
-
 ### SELECTED PUBLICATIONS
 <p style="margin-bottom:15px"></p>
 
