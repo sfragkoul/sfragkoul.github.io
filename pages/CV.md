@@ -27,7 +27,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- **Research Associate**, [Bioinformatics Lab](https://biodataanalysisgroup.github.io/), [INAB](https://inab.certh.gr/) at [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece (11/2021–present)  
+- **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–present)  
   Group Lead: Fotis Psomopoulos  
   Duties: Research software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
@@ -46,10 +46,10 @@ My participation in Research projects:
 
 
 - **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
-  Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open‑source synthetic data generation and benchmarking pipeline for low‑frequency somatic‑variant deconvolution.
+  Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open source synthetic data generation and benchmarking pipeline for low frequency somatic variant calling.
 
 - **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
-  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling)  for [COST Action CA17137](https://www.cost.eu/actions/CA17137/) in collaboration with the [CIDL research group](https://cidl.csd.auth.gr/) and the [Gravitational Waves Group, AUTh](https://niksterg.github.io/gw-group/).
+  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling)  for COST Action CA17137 in collaboration with the CIDL research group and the Gravitational Waves Group, AUTh.
 
 
 ---
