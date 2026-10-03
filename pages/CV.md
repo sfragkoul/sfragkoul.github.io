@@ -129,7 +129,7 @@ My participation in research projects:
 - O. A. Attafi, D. Clementel, K. Kyritsis, E. Capriotti, G. Farrell, **S.-C. Fragkouli**, et al. (2024). [DOME Registry: implementing community-wide recommendations for reporting supervised machine learning in biology](https://doi.org/10.1093/gigascience/giae094). *GigaScience*, 13, giae094.
 - **S.-C. Fragkouli**, P. Nousi, N. Passalis, P. Iosif, N. Stergioulas, and A. Tefas (2023). [Deep residual error and bag-of-tricks learning for gravitational wave surrogate modeling](https://doi.org/10.1016/j.asoc.2023.110746). *Applied Soft Computing*, article 110746.
 
-[Full publication list](https://sfragkoul.github.io/publications/)
+Full publication list [here](https://sfragkoul.github.io/publications/).
 
 
 
