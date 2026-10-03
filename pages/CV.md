@@ -36,7 +36,7 @@ background: /assets/img/groupLogo/CV.jpg
   Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  
   Duties: Scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
 
-My participation in Research projects:
+My participation in research projects:
 > | Duration | Project | Position Description | Funder |
 > |:--------:|:-------:|:-----------:|:------:|
 > | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | HORIZON-JU-IHI-2023-05 |
