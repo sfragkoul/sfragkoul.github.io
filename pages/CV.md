@@ -49,7 +49,7 @@ My participation in research projects:
 > | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | HORIZON-INFRA-2023-EOSC-01 |
 > | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04 |
 > | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
-> | 09/2020–10/2021 | [**G2NET**](https://www.g2net.eu/) | Machine Learning for Gravitational Wave astronomy | COST Action CA17137 |
+> | 09/2020–10/2021 | [**G2NET**](https://www.g2net.eu/) | ML for gravitational wave astronomy | COSTAction CA17137 |
 
 ---
 
