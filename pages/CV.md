@@ -85,9 +85,9 @@ My participation in Research projects:
 ### FELLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
-- **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at [ECCB2026](https://eccb2026.org/), Geneva, Switzerland (31/08–04/09/2026).
-- **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at [ECCB2024](https://eccb2024.fi/), Turku, Finland (16–20/09/2024).
-- **Participation grant** to attend [BioHackathon Europe 2023](https://biohackathon-europe.org/) as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
+- **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at ECCB2026, Geneva, Switzerland (31/08–04/09/2026).
+- **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at ECCB2024, Turku, Finland (16–20/09/2024).
+- **Participation grant** to attend BioHackathon Europe 2023 as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
 
 ---
 
@@ -101,15 +101,15 @@ My participation in Research projects:
 - Springer Nature: *[BMC Bioinformatics](https://link.springer.com/journal/12859)*
 
 #### Conference & Event Organization  
-- [*MSCA AHEAD*](https://ahead-msca.eu/) General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)
-- [*EOSC-EVERSE*](https://everse.software/) Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)
-- [*17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*](https://sites.google.com/site/hscbbhome), Holiday Inn Hotel, Thessaloniki, Greece (10–12/10/2023)
+- *MSCA AHEAD Project* General Assembly, CERTH, Thessaloniki, Greece (19–20/05/2026)
+- *EOSC-EVERSE Project* Kick-off Meeting, Holiday Inn Hotel, Thessaloniki, Greece (11–15/03/2024)
+- *17th Conference of the Hellenic Society for Computational Biology and Bioinformatics (HSCBB23)*, Holiday Inn Hotel, Thessaloniki, Greece (10–12/10/2023)
 
 #### Research Community Contributions 
 - **Co-lead** in Generative AI (GenAI) Task Force (05/2026–present)  
   Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
-- **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in [BioHackathon Europe 2026](https://biohackathon-europe.org/).
-- **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in [BioHackathon Europe 2023](https://biohackathon-europe.org/).
+- **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in BioHackathon Europe 2026.
+- **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in BioHackathon Europe 2023.
 
 ---
 
