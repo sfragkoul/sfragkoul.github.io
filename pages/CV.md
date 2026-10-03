@@ -29,7 +29,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–present)  
   Group Lead: Fotis Psomopoulos  
-  Duties: Research software development and ML applications, participation in the [ELIXIR AI Ecosystem FG](https://elixir-europe.org/focus-groups/ai-ecosystem), involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
+  Duties: Research software development and ML applications, involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
   **International Research Visit**
   - **Visiting Research Staff**, University of Helsinki, Helsinki, Finland (duration 1 month)  
@@ -39,17 +39,17 @@ background: /assets/img/groupLogo/CV.jpg
 My participation in Research projects:
 > | Duration | Project | Position Description | Funder |
 > |:--------:|:-------:|:-----------:|:------:|
-> | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | [HORIZON-JU-IHI-2023-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/myarea/project/101172872/program/43108390/details) |
-> | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | [HORIZON-INFRA-2023-EOSC-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) |
-> | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) |
-> | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) |
+> | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | HORIZON-JU-IHI-2023-05 |
+> | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | HORIZON-INFRA-2023-EOSC-01 |
+> | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04 |
+> | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
 
 
 - **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
   Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open source synthetic data generation and benchmarking pipeline for low frequency somatic variant calling.
 
 - **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
-  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling)  for COST Action CA17137 in collaboration with the CIDL research group and the Gravitational Waves Group, AUTh.
+  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling) in collaboration with the CIDL research group and the Gravitational Waves Group, AUTh (COST Action CA17137).
 
 
 ---
@@ -59,20 +59,20 @@ My participation in Research projects:
 
 #### University Courses
 
-- **Volunteer Instructor**, *Introduction to Python*, Aristotle University of Thessaloniki (03/2021)  
-  A six-hour crash course for 4th-year Physics students. [Course Materials](https://github.com/sfragkoul/Python_Intro)
+- **Volunteer Instructor**, *[Introduction to Python](https://github.com/sfragkoul/Python_Intro)*, Aristotle University of Thessaloniki (03/2021)  
+  A six-hour crash course for 4th-year Physics students.
 
 
 #### Workshops
 
-- **Instructor**, *Artificial Intelligence and Machine Learning in Life Sciences: from foundations to applications*,  Centre for Genomic Regulation (CRG), Barcelona, Spain (14–18/09/2026)  
-  A hands-on course covering machine learning, deep learning, foundation models, generative AI, reproducibility, DOME recommendations and the EU AI Act for life-science researchers. [Details](https://courses.crg.eu/events/artificial-intelligence-and-machine-learning-life-science-foundations-applications-2026)
-- **Instructor**, *Artificial Intelligence and Machine Learning in Life Sciences*,  Centre de Vacances et Colloques Paul Langevin (CNRS), Aussois, France (19–23/05/2025)  
-  An intensive course focused on ML and generative AI in the life sciences. [Details](https://moodle.france-bioinformatique.fr/course/view.php?id=34) | [DOME Tutorial](https://training.galaxyproject.org/training-material/topics/statistics/tutorials/dome/tutorial.html)
-- **Helper**, *Exploratory analysis of biological data: Data Carpentry*, EMBL Heidelberg & Virtual (22–26/01/2024)  
-  A hands-on workshop teaching data analysis fundamentals. [EMBL Course](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)
-- **Instructor**, *WES / WGS Data Analysis*, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
-  Taught CNV calling using [CNVkit](https://cnvkit.readthedocs.io/en/stable/). [Materials](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)
+- **Instructor**, *[Artificial Intelligence and Machine Learning in Life Sciences: from foundations to applications](https://courses.crg.eu/events/artificial-intelligence-and-machine-learning-life-science-foundations-applications-2026)*,  Centre for Genomic Regulation (CRG), Barcelona, Spain (14–18/09/2026)  
+  A hands-on course covering machine learning, deep learning, foundation models, generative AI, reproducibility, DOME recommendations and the EU AI Act for life-science researchers.
+- **Instructor**, *[Artificial Intelligence and Machine Learning in Life Sciences](https://moodle.france-bioinformatique.fr/course/view.php?id=34)*,  Centre de Vacances et Colloques Paul Langevin (CNRS), Aussois, France (19–23/05/2025)  
+  An intensive course focused on ML and generative AI in the life sciences.
+- **Helper**, *[Exploratory analysis of biological data: Data Carpentry](https://www.embl.org/about/info/course-and-conference-office/events/dtc24-01/#vf-tabs__section-speakers)*, EMBL Heidelberg & Virtual (22–26/01/2024)  
+  A hands-on workshop teaching data analysis fundamentals.
+- **Instructor**, *[WES / WGS Data Analysis](https://github.com/BiodataAnalysisGroup/IMGGE-WES-WGS-data-analysis-workshop)*, IMGGE, Belgrade, Serbia (28/11–01/12/2022)  
+  Taught [CNV](https://cnvkit.readthedocs.io/en/stable/) calling.
 
 
 #### Student Supervision  
@@ -85,8 +85,8 @@ My participation in Research projects:
 ### FELLOWSHIPS AND AWARDS
 <p style="margin-bottom:15px"></p>
 
-- **Travel grant** from the [European Conference on Computational Biology association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at ECCB2026, Geneva, Switzerland (31/08–04/09/2026).
-- **Travel grant** from the [International Society for Computational Biology](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at ECCB2024, Turku, Finland (16–20/09/2024).
+- **Travel grant** from the [ECCB association](https://eccb.org/) to present the poster *Synthetic Data Evaluation Metrics in Life Sciences: An ELIXIR Scoping Review* at ECCB2026, Geneva, Switzerland (31/08–04/09/2026).
+- **Travel grant** from the [ISCB](https://www.iscb.org/) to present the poster *Benchmarking Somatic Variant Callers: A Tale Unfolding In The Synthetic Genomics Feature Space* at ECCB2024, Turku, Finland (16–20/09/2024).
 - **Participation grant** to attend BioHackathon Europe 2023 as co-lead for [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2), Barcelona, Spain (31/10–01/11/2023), with travel and accommodation expenses covered by [ELIXIR](https://elixir-europe.org/).
 
 ---
