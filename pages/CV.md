@@ -117,3 +117,28 @@ My participation in Research projects:
 <p style="margin-bottom:15px"></p>
 
 - Member, [International Society for Computational Biology (ISCB)](https://www.iscb.org/) (2023–present)
+
+---
+
+---
+
+### SELECTED PUBLICATIONS
+<p style="margin-bottom:15px"></p>
+
+- **S.-C. Fragkouli**, N. Pechlivanis, A. Anastasiadou, G. Karakatsoulis, A. Orfanou, P. Kollia, A. Agathangelidis, and F. Psomopoulos (2026). [Synth4bench: generating synthetic data for benchmarking tumor-only somatic variant calling algorithms](https://doi.org/10.3389/fbinf.2026.1858375). *Frontiers in Bioinformatics*, 6.
+
+- **S.-C. Fragkouli**, S. Iqbal, L. Crossman, B. Gravel, N. Masued, M. Onders, D. Haseja, A. Stikkelman, A. Valencia, T. Lenaerts, F. Psomopoulos, P. Ó Broin, N. Queralt-Rosinach, and D. Cirillo (2026). [An ELIXIR scoping review on domain-specific evaluation metrics for synthetic data in life sciences](https://doi.org/10.1093/nargab/lqag012). *NAR Genomics and Bioinformatics*, 8(1), lqag012.
+
+- G. Farrell, E. Adamidi, R. Andrade Buono, et al. (including **S.-C. Fragkouli**) (2026). [Open and sustainable AI: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.1038/s41592-026-03037-6). *Nature Methods*.
+
+- O. A. Attafi, D. Clementel, K. Kyritsis, E. Capriotti, G. Farrell, **S.-C. Fragkouli**, et al. (2024). [DOME Registry: implementing community-wide recommendations for reporting supervised machine learning in biology](https://doi.org/10.1093/gigascience/giae094). *GigaScience*, 13, giae094.
+
+- **S.-C. Fragkouli**, P. Nousi, N. Passalis, P. Iosif, N. Stergioulas, and A. Tefas (2023). [Deep residual error and bag-of-tricks learning for gravitational wave surrogate modeling](https://doi.org/10.1016/j.asoc.2023.110746). *Applied Soft Computing*, article 110746.
+
+[Full publication list](https://sfragkoul.github.io/publications/)
+
+
+
+
+
+
