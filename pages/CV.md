@@ -36,6 +36,7 @@ background: /assets/img/groupLogo/CV.jpg
   Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  
   Duties: Scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
 
+
 - **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
   Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open source synthetic data generation and benchmarking pipeline for low frequency somatic variant calling.
 
