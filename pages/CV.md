@@ -29,7 +29,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–present)  
   Group Lead: Fotis Psomopoulos  
-  Duties: Research software development and ML applications, involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
+  Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
 - **International Visiting Research Staff**, University of Helsinki, Helsinki, Finland (duration 1 month)  
   Duties: Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  Involved scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
