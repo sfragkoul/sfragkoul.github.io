@@ -10,7 +10,7 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)  
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants”*  
-  Supervisor: Andreas Agathangelidis
+  Supervisor: Andreas Agathangelidis  
   Grade: Excellent
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
