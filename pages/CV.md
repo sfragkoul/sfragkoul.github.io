@@ -8,8 +8,8 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)  
-  Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants”*  
+- **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)   
+  Thesis: *Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants"*  
   Supervisor: Andreas Agathangelidis  
   Grade: Excellent
 
