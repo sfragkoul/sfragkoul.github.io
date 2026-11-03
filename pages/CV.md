@@ -8,9 +8,10 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (06/2022–present)  
+- **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)  
   Thesis: *“Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants”*  
   Supervisor: Andreas Agathangelidis
+  Grade: Excellent
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
   Thesis: *"Applications of Deep Learning on gravitational waves"*  
@@ -34,7 +35,7 @@ background: /assets/img/groupLogo/CV.jpg
 - **International Visiting Research Staff**, University of Helsinki, Helsinki, Finland (duration 1 month)  
   Duties: Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  Involved scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
 
-- **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (06/2022–present)  
+- **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (07/2022–11/2026)  
   Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open source synthetic data generation and benchmarking pipeline for low frequency somatic variant calling.
 
 - **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
