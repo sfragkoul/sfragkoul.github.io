@@ -28,7 +28,7 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
-- **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–present)  
+- **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–11/2026)  
   Group Lead: Fotis Psomopoulos  
   Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in European-funded projects.
 
