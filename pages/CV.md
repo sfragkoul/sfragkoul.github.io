@@ -28,6 +28,10 @@ background: /assets/img/groupLogo/CV.jpg
 ### EMPLOYMENT & SCIENTIFIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
+- **Postdoctoral Researcher**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (12/2026–present)  
+  Group Lead: Fotis Psomopoulos  
+  Duties: Conceptualization and execution of independent research projects, preparation of EU funding proposals and contributions to EU funded research projects.
+
 - **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–11/2026)  
   Group Lead: Fotis Psomopoulos  
   Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in EU funded projects.
