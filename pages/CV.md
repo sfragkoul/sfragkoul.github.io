@@ -10,17 +10,17 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)   
   Thesis: *Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants"*  
-  Supervisor: Andreas Agathangelidis  
+  Supervisor: Prof. Andreas Agathangelidis  
   Grade: Excellent
 
 - **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
   Thesis: *"Applications of Deep Learning on gravitational waves"*  
-  Supervisor: Anastasios Tefas  
+  Supervisor: Prof. Anastasios Tefas  
   Grade: 9.20/10 (90 ECTS)
 
 - **B.Sc. in Physics**, Aristotle University of Thessaloniki (10/2010–04/2019)   
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*  
-  Supervisor: Charalampos Moustakidis  
+  Supervisor: Prof. Charalampos Moustakidis  
   Grade: 6.64/10 (240 ECTS)
 
 ---
@@ -29,11 +29,11 @@ background: /assets/img/groupLogo/CV.jpg
 <p style="margin-bottom:15px"></p>
 
 - **Postdoctoral Researcher**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (12/2026–present)  
-  Group Lead: Fotis Psomopoulos  
+  Group Lead: Dr. Fotis Psomopoulos  
   Duties: Conceptualization and execution of independent research projects, preparation of EU funding proposals and contributions to EU funded research projects.
 
 - **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–11/2026)  
-  Group Lead: Fotis Psomopoulos  
+  Group Lead: Dr. Fotis Psomopoulos  
   Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in EU funded projects.
 
 - **International Visiting Research Staff**, University of Helsinki, Helsinki, Finland (duration 1 month)  
