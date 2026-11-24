@@ -73,6 +73,7 @@ My research focuses on the development and evaluation of computational methods f
 | [**AHEAD**](https://ahead-msca.eu/) | Evaluation methods and practices for healthcare AI. | MSCA Staff Exchanges, grant No. 101183031 |
 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04, grant No. 101058573|
 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
+| [**Can.Heal**](https://canheal.eu/) | Standards and quality metrics for genomic data |  EU4H-2021-PJ2, grant No. 101080009 |
 | [**G2NET**](https://www.g2net.eu/) | ML for gravitational wave astronomy | COST Action CA17137 |
 
 ---
