@@ -71,6 +71,7 @@ My research focuses on the development and evaluation of computational methods f
 | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | HORIZON-JU-IHI-2023-05, grant No. 101172872 |
 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | HORIZON-INFRA-2023-EOSC-01 grant No. 101129744 |
 | [**AHEAD**](https://ahead-msca.eu/) | Evaluation methods and practices for healthcare AI. | MSCA Staff Exchanges, grant No. 101183031 |
+| [**ELIXIR-STEERS**](https://elixir-europe.org/about-us/how-funded/eu-projects/steers) | Research software and workflows best-practice toolkit. |  HORIZON-INFRA-2023-DEV-01, grant No. 101131096 |
 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04, grant No. 101058573|
 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
 | [**Can.Heal**](https://canheal.eu/) | Standards and quality metrics for genomic data |  EU4H-2021-PJ2, grant No. 101080009 |
