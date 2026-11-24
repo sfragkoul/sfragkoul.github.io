@@ -30,39 +30,60 @@ background: /assets/img/groupLogo/CV.jpg
 
 - **Postdoctoral Researcher**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (12/2026–present)  
   Group Lead: Dr. Fotis Psomopoulos  
-  Duties: Conceptualization and execution of independent research projects, preparation of EU funding proposals and contributions to EU funded research projects.
+  Duties: Conceptualization and execution of independent research projects, preparation of EU funding proposals and contributions to EU funded research projects.  
+  Contribution and involvement in Research projects: SYNTHIA, EVERSE, AHEAD
 
 - **Research Associate**, Bioinformatics Lab, CERTH, Thessaloniki, Greece (11/2021–11/2026)  
   Group Lead: Dr. Fotis Psomopoulos  
-  Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in EU funded projects.
+  Duties: Bioinformatics research software development, involvement in student supervision and teaching, EU proposal writing and participation in EU funded projects.  
+  Contribution and involvement in Research projects: SYNTHIA, EVERSE, ELIXIR-STEERS, AHEAD, SciLake, Gallantries, Can.Heal
 
-- **International Visiting Research Staff**, University of Helsinki, Helsinki, Finland (duration 1 month)  
-  Duties: Research visit through the [**AHEAD**](https://ahead-msca.eu/) project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme.  Involved scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
+- **International Visiting Research Staff**, University of Helsinki, Helsinki, Finland (08/2026, 1 month duration)  
+  Duties: Research visit through the AHEAD project under the Marie Skłodowska-Curie Actions (MSCA) Staff Exchanges programme. Involved scientific literature curation, publication metadata integration, development of interoperable metadata schemas for the AHEAD observatory and collaboration with researchers across biomedicine, AI, ethics, sociology, psychology and law to advance responsible AI in healthcare.
 
 - **PhD Student**, Department of Biology, National and Kapodistrian University of Athens (07/2022–11/2026)  
   Duties: Development of [synth4bench](https://github.com/sfragkoul/synth4bench), an open source synthetic data generation and benchmarking pipeline for low frequency somatic variant calling.
 
 - **Master Student**, Department of Informatics, Aristotle University of Thessaloniki (09/2020–09/2021)  
-  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling) in collaboration with the CIDL research group and the Gravitational Waves Group, AUTh.
-
-My participation in research projects:
-> | Duration | Project | Position Description | Funder |
-> |:--------:|:-------:|:-----------:|:------:|
-> | 01/2025–present | [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | HORIZON-JU-IHI-2023-05 |
-> | 06/2024–12/2024 | [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | HORIZON-INFRA-2023-EOSC-01 |
-> | 09/2023–05/2024 | [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04 |
-> | 11/2021–08/2023 | [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
-> | 09/2020–10/2021 | [**G2NET**](https://www.g2net.eu/) | ML for gravitational wave astronomy | COSTAction CA17137 |
+  Duties: Software development for [Deep Learning Methods](https://github.com/sfragkoul/residual-gw-surrogate-modelling) in collaboration with the CIDL research group and the Gravitational Waves Group, AUTh.  
+  Contribution in Research projects: G2NET
 
 ---
 
-### TEACHING EXPERIENCE
+### RESEARCH EXPERIENCE
+<p style="margin-bottom:15px"></p>
+
+#### Research Summary
+
+My research focuses on the development and evaluation of computational methods for scientific research, with an emphasis on the life sciences. It draws on machine learning, bioinformatics and scientific modelling to address questions about how models and software perform under different conditions, how their performance can be assessed and how computational results can be reproduced.
+
+- **Deep learning for surrogate modelling.** Residual learning and autoencoder-based representations for improving gravitational waveform approximation and reducing the computational cost of waveform generation.
+- **Genomics variant calling.** Detection of low-frequency somatic variants in tumor-only sequencing, with a focus on distinguishing genuine variants from sequencing artefacts and using supervised learning to identify false-positive calls. This research also includes contributions to genomic analysis pipelines for precision medicine.
+- **Benchmark design and performance assessment.** Design of benchmarks that compare computational outputs against reference data and characterize where methods perform well or fall short. In genomics, this includes using synthetic data with known ground truth to assess how sequencing depth and read length affect variant-calling performance. In AI-assisted scientific reporting, it includes benchmarking LLM-generated annotations against human-curated annotations.
+- **Synthetic data generation and evaluation in healthcare.** Methods for generating synthetic data for the life sciences, including genomic datasets with known ground truth for benchmarking. Evaluation of synthetic data focuses on identifying domain-specific metrics and determining whether a dataset is suitable for its intended research task.
+- **AI evaluation in healthcare.** Development of metrics and indicators for assessing healthcare AI applications and datasets. This work brings technical evaluation together with ethical, legal and social perspectives, examining how AI systems perform and what their use means for patients, healthcare professionals and society.
+- **Research software quality and reproducibility.** Transparent reporting of machine learning methods, reproducible evaluation practices and indicators for assessing the quality, safety and responsibility of research software in the life sciences.
+
+#### Participation in Research Projects
+
+| Project | Research contribution | 	Funding programme and grant reference |
+| --- | --- | --- |
+| [**SYNTHIA**](https://www.ihi-synthia.eu/) | ML methods for generating and evaluating synthetic data | HORIZON-JU-IHI-2023-05, grant No. 101172872 |
+| [**EVERSE**](https://everse.software/) | Tools and practices for research software quality assessment | HORIZON-INFRA-2023-EOSC-01 grant No. 101129744 |
+| [**AHEAD**](https://ahead-msca.eu/) | Evaluation methods and practices for healthcare AI. | MSCA Staff Exchanges, grant No. 101183031 |
+| [**SciLake**](https://scilake.eu/) | Algorithms for large-scale biodata analysis | HORIZON-INFRA-2021-EOSC-01-04, grant No. 101058573|
+| [**Gallantries**](https://gallantries.github.io/) | Bioinformatics educational content development | Erasmus+ |
+| [**G2NET**](https://www.g2net.eu/) | ML for gravitational wave astronomy | COST Action CA17137 |
+
+---
+
+### ACADEMIC EXPERIENCE
 <p style="margin-bottom:15px"></p>
 
 #### University Courses
 
 - **Volunteer Instructor**, *[Introduction to Python](https://github.com/sfragkoul/Python_Intro)*, Aristotle University of Thessaloniki (03/2021)  
-  A six-hour crash course for 4th-year Physics students.
+  A six-hour crash course for 4th-year Bachelor physics students.
 
 
 #### Workshops
@@ -93,7 +114,7 @@ My participation in research projects:
 
 ---
 
-### ACADEMIC SERVICES
+### ACADEMIC COMMUNITY & SERVICES
 <p style="margin-bottom:15px"></p>
 
 #### Ad hoc Reviewer  
@@ -110,14 +131,10 @@ My participation in research projects:
 #### Research Community Contributions 
 - **Co-lead** in Generative AI (GenAI) Task Force (05/2026–present)  
   Contribute to the coordination and development of the Generative AI Task within the [ELIXIR AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), supporting community discussions and strategic initiatives on the use of generative AI in the life sciences.
-- **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible, and Interoperable Life-Science Software* in BioHackathon Europe 2026.
+- **Co-lead** of [Project 8](https://github.com/elixir-europe/biohackathon-projects-2026/blob/main/8.md): *Advancing Research Software Quality across ELIXIR: Sustainable, Reproducible and Interoperable Life-Science Software* in BioHackathon Europe 2026.
 - **Co-lead** of [Project 2](https://github.com/elixir-europe/biohackathon-projects-2023/tree/main/2): *Assessing quality and privacy metrics of synthetic health data for benchmarking: the variant callers use case* in BioHackathon Europe 2023.
 
----
-
-### MEMBERSHIPS
-<p style="margin-bottom:15px"></p>
-
+####  MEMBERSHIPS
 - Member, [International Society for Computational Biology (ISCB)](https://www.iscb.org/) (2023–present)
 
 ---
