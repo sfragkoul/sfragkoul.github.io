@@ -8,17 +8,17 @@ background: /assets/img/groupLogo/CV.jpg
 ### EDUCATION
 <p style="margin-bottom:15px"></p>
 
-- **Ph.D. in Bioinformatics**, National and Kapodistrian University of Athens (07/2022–11/2026)   
+- **Ph.D. in Bioinformatics**, Department of Biology, National and Kapodistrian University of Athens (07/2022–11/2026)   
   Thesis: *Design and development of bioinformatics tools for the effective and systematic distinction between true (biological) and artificial somatic variants in pathological conditions, focusing on low-frequency variants"*  
   Supervisor: Prof. Andreas Agathangelidis  
   Grade: Excellent
 
-- **M.Sc. in Digital Media and Computational Intelligence**, Aristotle University of Thessaloniki (09/2019–09/2021)    
+- **M.Sc. in Digital Media and Computational Intelligence**, Department of Informatics, Aristotle University of Thessaloniki (09/2019–09/2021)    
   Thesis: *"Applications of Deep Learning on gravitational waves"*  
   Supervisor: Prof. Anastasios Tefas  
   Grade: 9.20/10 (90 ECTS)
 
-- **B.Sc. in Physics**, Aristotle University of Thessaloniki (10/2010–04/2019)   
+- **B.Sc. in Physics**, Department of Physics, Aristotle University of Thessaloniki (10/2010–04/2019)   
   Thesis: *"Study of the merging of a neutron star with a black hole and the role of the equation of state"*  
   Supervisor: Prof. Charalampos Moustakidis  
   Grade: 6.64/10 (240 ECTS)
